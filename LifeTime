@@ -21768,7 +21768,7 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",[DONASI UPDATE CHANNEL]
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png" group-title="[DONASI UPDATE]", [DONASI UPDATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png" group-title="[DONASI UPDATE CHANNEL]", [DONASI UPDATE CHANNEL]
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27383,6 +27383,6 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
 
 
 
-
+#EXTM3U billed-msg="SUPPORT UPDATE https://saweria.co/rlabsid"
 
 ##### EMTEK GRUB ####
