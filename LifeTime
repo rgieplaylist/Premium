@@ -39420,6 +39420,8 @@ https://stream.hownetwork.xyz/xxx/air-force-one-down-2024-webdl_X_ea0f1fc1/20/48
 //Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2023
 //========================================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",MOVIES VOD 2023
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yJkr2O3iPWLqfTpAHpn5V7591v.jpg",Let the River Flow (2023)
 https://stream.hownetwork.xyz/xxx/let-the-river-flow-2023-bluray_X_49ac3d92/26/480.m3u8
@@ -40182,6 +40184,8 @@ https://stream.hownetwork.xyz/yyy/the-brotherhood-of-rebel-2023-bluray_X_4f29381
 //Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD
 //========================================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",MOVIES VOD
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/so4lTfAVLtOm6ggHXJm9hXqXTgC.jpg",Who Kidnapped My Mom? (2022) 
 https://ss07.tubzde.cc/data/9/67699474858ef/hls480/67699474858ef480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
@@ -40412,6 +40416,8 @@ https://cdn7iv.diebutx.com/ownhls/2020/edb5c17fedeada545ebc280a4b4cd5cf/720p/ind
 //Collected by @mimipipi22 menampilkan playlist >>> Marvel Universe
 //========================================================================
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",Marvel Universe
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom - The Last Dance (2024)
 https://stream.hownetwork.xyz/xxx/venom-the-last-dance-2024-webdl_X_1fe665fc/26/480.m3u8
@@ -40595,6 +40601,8 @@ https://hls2.dewanonton.online/vultr/ytAgRbmtHHmNO/hls-stream.m3u8
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Fast & Furious
 //========================================================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",Fast & Furious
 
 #EXTINF:-1 type="" group-title="Fast & Furious" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp",Fast X (Fast & Furious 10) (2023)
 https://stream.hownetwork.xyz/xxx/fast-x-2023-bluray/2/480.m3u8
