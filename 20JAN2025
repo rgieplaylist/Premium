@@ -1,4 +1,4 @@
-not information code 
+(404) not information code 
 
 
 
@@ -21979,11 +21979,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 ========== BRI LIGA 1 ===========
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",LIVE | LIGA TARKAM
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQljkdOu3lINlyG252mTiTfrjF3fiHbi3w0AjbBhoquBWBrCvJ8Lheigo&s=10" group-title="LIVE | LIGA TARKAM", INDOSIAR 1
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎INDOSIAR" tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="LIVE | LIGA TARKAM",INDOSIAR
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#EXTINF:-1  tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="LIVE | LIGA TARKAM",INDOSIAR FHD
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
+
 
 
 
@@ -24340,7 +24339,6 @@ https://topembed.mizhls.ru/lb/premium435/playlist.m3u8
 <================ Korean Channels ===================>
 
 
-
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",CHANNEL | KOREA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="CHANNEL | KOREA",Ebs 1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
@@ -25333,7 +25331,33 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 #http://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 
-
+#EXTINF:-1 tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNnD6lLT0xCQNc9EG_Yq1vBzAoSJHSo04iA&amp;usqp=CAU" group-title="CHANNEL | VISION+",Galaxy (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:-1 tvg-id="Galaxy Premium - [Channel 12].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www2.myrepublic.net.id/wp-content/uploads/2019/02/Channel-tumbnail-for-Website_Galaxy-Premium-1.jpeg" group-title="CHANNEL | VISION+",Galaxy Premium (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54xdstkj7RPrJEd_LE2bJEECLMJ26GHHfcWSbCMANA-jyYuv8Gka1fQos&amp;s=10" group-title="CHANNEL | VISION+",IMC (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="CHANNEL | VISION+",My Cinema FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_HD
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/8JvUxar.png" group-title="CHANNEL | VISION+",My Cinema Asia FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_Asia
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="CHANNEL | VISION+",My Family FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Family_Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 
 
 
@@ -27199,6 +27223,10 @@ https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehd
 #EXTINF:-1 tvg-name="Sky Sport Select NZ" tvg-logo="https://lo1.in/uk/skyspns.png" group-title="CHANNEL | SKY SPORT",Sky Sport Select NZ
 https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png" group-title="CHANNEL | KNOWLEDGE",NATGEO WILD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27207,9 +27235,20 @@ https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehd
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
 
 
+#EXTM3U url=""
+# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
+# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 2024-11-01 10:04:00 GMT+7 "
+# (●) Service: HBOGO Asia
+# (●) Total Channels: Null
+
+//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
+
 
 //========================================================================
->>> HBOGO ASIA 2024
+//Collected by @mimipipi22 menampilkan playlist >>> HBOGO ASIA 2024
 //========================================================================
 
 #EXTINF:-1 type="movie" group-title="HBOGO ASIA 2024" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/042577X0-portrait.jpg",Louder: The Soundtrack Of Change 2024
@@ -35439,8 +35478,508 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
-//========== >>> MOVIES VOD 2024
+
+
+
+#EXTM3U url=""
+# ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
+# █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: 2025-01-10 10:15:11 GMT+7 "
+# (●) Service: VOD
+# (●) Total Channels: Null
+
+//////////////////////////////// BILA  MENEMUKAN PLAYLIST INI \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
+
 //========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2025
+//========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg",The Savior of the World (2025)
+https://streamsilk.com/data/677f91bc117e0/677f91bc117e0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fhx261QNON8M7oMnVBy8jzSwxEZ.jpg",Evil of The Rat – Rat King (2025)
+https://stream.hownetwork.xyz/xxx/evil-of-the-rat-rat-king-2025-webdl_X_eb42284d/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e4d32d7473/677e4d32d7473720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned (2025)
+https://streamsilk.com/data/6779843f1b73e/6779843f1b73e720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025)
+https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",Don't Die: The Man Who Wants to Live Forever (2025)
+https://stream.hownetwork.xyz/xxx/dont-die-the-man-who-wants-to-live-forever-2025-webdl_X_f01e7a33/28/480.m3u8
+https://streamsilk.com/data/6775962fe2669/6775962fe2669480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Dont.Die.The.Man.Who.Wants.to.Live.Forever.2025.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",Nosferatu (2025) TS
+https://streamsilk.com/data/6774e00a4fa59/6774e00a4fa59720.m3u8
+https://streamsilk.com/data/677246b734596/677246b734596720.m3u8
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> MOVIES VOD 2024
+//========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fsSBwayzOQjLbJJ2No2LZWaUA5z.jpg",The Paradise of Thorns (2024)
+https://stream.hownetwork.xyz/xxx/the-paradise-of-thorns-2024-webdl_X_cb760f26/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/The.Paradise.of.Thorns.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677f4df330ff3/677f4df330ff3480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cenBMd8pVeAw2V5rkI7r92DCznr.jpg",2073 (2024)
+https://stream.hownetwork.xyz/xxx/2073-2024-webdl_X_b232dca0/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/2073.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e8a2935126/677e8a2935126480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg", The Wild Robot (2024)
+https://stream.hownetwork.xyz/xxx/the-wild-robot-2024-bluray_X_773f4e25/28/480.m3u8
+https://streamsilk.com/data/677e7da8052f5/677e7da8052f5720.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/The.Wild.Robot.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/496yjTp7FnkrpMFfXO778WlZKqS.jpg",Adult Swim Yule Log 2: Branchin' Out (2024)
+https://stream.hownetwork.xyz/xxx/adult-swim-yule-log-2-branchin-out-2024-webdl_X_40ba7b8d/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Adult.Swim.Yule.Log.2.Branchin.Out.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e75e7ddcf9/677e75e7ddcf9720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hR8DpUwA1OmP7zWhAE6IxO8LQaU.jpg",Drug Hunter 2 (2024)
+https://stream.hownetwork.xyz/xxx/drug-hunter-2-2024-webdl_X_616c1e04/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Drug.Hunter.2.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677526d064021/677526d064021720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",Flow (2024)
+https://stream.hownetwork.xyz/xxx/flow-2024-webdl_X_ec6cc4bd/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Flow.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e59ad97ef1/677e59ad97ef1720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jBi5ZHxoRwjlPzPlBTMKRopC76i.jpg",Cora (2024)
+https://stream.hownetwork.xyz/xxx/cora-2024-webdl_X_41651d01/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Cora.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e4614ec9ae/677e4614ec9ae720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cqycEDHYiKyRENGLaB2BmxE3XuW.jpg",Eye for an Eye 2 (2024)
+https://stream.hownetwork.xyz/xxx/eye-for-an-eye-2-mu-zhong-wu-ren-2-2024-bluray_X_bdd4e3bd/28/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bWTPhWnT7BwtqIJycfy0d4Ihtvk.jpg",The Strange Beast of Silent Island (2024)
+https://stream.hownetwork.xyz/xxx/the-strange-beast-of-silent-island-silent-island-strange-beasts-2024-webdl_X_756f65e2/28/480.m3u8
+https://streamsilk.com/data/67799cc931586/67799cc931586720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s3AHBdFkwOdLkhJzrsb3BJVYOoz.jpg",The Killer With No Name (2024)
+https://streamsilk.com/data/677f54295559f/677f54295559f720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vy3Ik9poSWPq6hKhNZbmu2pmdYH.jpg",The Program (2024)
+https://seneng.org/v/driveid-193692-webrip-1080-terbit21-com-the-program-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cozwDLiMHdn8rOSdjIZUoA4lJX9.jpg",Wild Agent 2: Peach Assassination (2024)
+https://streamsilk.com/data/677a97599615d/677a97599615d720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xE06xrZkIipJMPSgWoeelohxi9h.jpg",Mononoke the Movie: The Phantom in the Rain (2024)
+https://stream.hownetwork.xyz/xxx/mononoke-the-movie-the-phantom-in-the-rain-2024-webdl_X_9fb77ee6/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Mononoke.the.Movie.The.Phantom.in.the.Rain.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677c004936f75/677c004936f75480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/01/film-bucha-2024-lk21-d21.jpg.webp",Bucha (2024)
+https://stream.hownetwork.xyz/xxx/bucha-2024-webdl_X_358cd74c/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Bucha.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677bf8beb4478/677bf8beb4478480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sS1G2hWttvZFbgOzZZR7oeuKsad.jpg",Diagnosis: Dissent (2024)
+https://stream.hownetwork.xyz/xxx/diagnosis-dissent-2024-webdl_X_b84e6333/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Diagnosis.Dissent.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677be13698076/677be13698076480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jvGImfasm54GccQ9x98Zps8ftwl.jpg",Bloody Trip: The Equinox Killer (2024)
+https://stream.hownetwork.xyz/xxx/bloody-trip-the-equinox-killer-2024-webdl_X_bec7ffcd/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Bloody.Trip.The.Equinox.Killer.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677bd7c5d228f/677bd7c5d228f480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",Armor (2024)
+https://stream.hownetwork.xyz/xxx/armor-2024-bluray_X_15f56bb4/28/480.m3u8
+https://seneng.org/v/driveid-194731-bluray-1080-terbit21-com-armor-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://streamsilk.com/data/677ba6c18ac6e/677ba6c18ac6e720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7b7LRWmf6G6Tb8a9sj3WVmNCfsO.jpg",Crypto Storm (2024)
+https://streamsilk.com/data/677a1cbd96b40/677a1cbd96b40720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3aL8vnz3d4XlHxBsAEILHsKktfG.jpg",Escape from the 21st Century (2024)
+https://streamsilk.com/data/677a0e7f902cf/677a0e7f902cf720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fItbeJ4usriWIYMugnxjUywlpBG.jpg",AMP House Massacre (2024)
+https://streamsilk.com/data/6779a066e40d6/6779a066e40d6720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jO5Ky0k5YvN56hLP1r5YqubdR9D.jpg",Alien Weekend (2024)
+https://streamsilk.com/data/677993a63fd6b/677993a63fd6b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg",A Real Pain (2024)
+https://stream.hownetwork.xyz/xxx/a-real-pain-2024-webdl_X_3d096ef1/28/480.m3u8
+https://streamsilk.com/data/677bbf6d4b94e/677bbf6d4b94e480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/A.Real.Pain.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p4dbgU6UKENz5f2Tp8wqcdWIxkg.jpg",From Embers (2024)
+https://streamsilk.com/data/677a38189988b/677a38189988b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mEDZuKataoLDgcvpvfZiDlzu3wQ.jpg",The Break-Up Club (2024)
+https://streamsilk.com/data/677a30701bc63/677a30701bc63720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tIX3upo5WdwH83SIVVV3NcKKza0.jpg",Following Yonder Star (2024)
+https://streamsilk.com/data/677a304674f83/677a304674f83720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jKPIgZXF3OSe61CDHnlSwloutVF.jpg",Dick Dynamite: 1944 (2024)
+https://streamsilk.com/data/677a2c7685834/677a2c7685834720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mJ5eNzCXpOEQN9NA5AsUgsS5Dv0.jpg",Hanukkah on the Rocks (2024)
+https://streamsilk.com/data/677a24af1eede/677a24af1eede720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pjlHOvNIQ7TSxh8ZGPLEHUcm5mS.jpg",Don Q (2024)
+https://streamsilk.com/data/677a248777346/677a248777346720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4DakvtJrtNZ0IjjLne30OXZWDVA.jpg",A Motown Christmas (2024)
+https://streamsilk.com/data/6778fea93f828/6778fea93f828720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lc4n406XqcLd2OFhub6QQYLhUkr.jpg",Getting LOST (2024)
+https://streamsilk.com/data/6778fe36b0c99/6778fe36b0c99720.m3u8
+https://seneng.org/v/driveid-193604-webrip-1080-terbit21-com-getting-lost-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fxaWzzG39pnrq4Z0qNu7XQtYRsy.jpg",All the Lost Ones (2024)
+https://streamsilk.com/data/6778fde2aaff9/6778fde2aaff9720.m3u8
+https://seneng.org/v/driveid-193687-webrip-1080-terbit21-com-all-the-lost-ones-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gYmFGMi1KpzJi3JAYvcW9LlaMmp.jpg",Hemet, or the Landlady Don't Drink Tea (2024)
+https://streamsilk.com/data/6778addfaeb54/6778addfaeb54720.m3u8
+https://seneng.org/v/driveid-193602-webrip-1080-terbit21-com-hemet-or-the-landlady-dont-drink-tea-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zcM3twJ5E75MAz5lGggcU9N0Tf.jpg",Keanu Reeves: The One and Only (2024)
+https://seneng.org/v/driveid-193614-webrip-1080-terbit21-com-keanu-reeves-the-one-and-only-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://streamsilk.com/data/6778ad1d47550/6778ad1d47550720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tUyKGbA6ORJq9yxEsNPdG6cfXDI.jpg",Joy of Horses (2024)
+https://seneng.org/v/driveid-193615-webrip-1080-terbit21-com-joy-of-horses-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://streamsilk.com/data/67787ac377a73/67787ac377a73720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8KEjjeJ8Ix4WRPPdksmxzqGEplU.jpg",Telekinesis (2024)
+https://stream.hownetwork.xyz/xxx/telekinesis-2024-webdl_X_0da127d7/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Telekinesis.2024.mp4/tracks-v1a1/mono.m3u8
+https://seneng.org/v/driveid-194694-webdl-1080-terbit21-com-telekinesis-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b0Ms9JS4Z4NOsMlyWEiF0evdhvi.jpg",Love Child (2024)
+https://stream.hownetwork.xyz/xxx/love-child-2024-webdl_X_7982d6de/28/480.m3u8
+https://streamsilk.com/data/6779217c98873/6779217c98873480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Love.Child.2024.mp4/tracks-v1a1/mono.m3u8
+https://seneng.org/v/driveid-194489-webdl-1080-terbit21-com-love-child-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/td0jMMZmsj1lcBfAsddCISn7XXt.jpg",He Ain’t Heavy (2024)
+https://stream.hownetwork.xyz/xxx/he-aint-heavy-2024-webdl_X_9ac9b3fb/28/480.m3u8
+https://streamsilk.com/data/6778e060f12f2/6778e060f12f2480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/He.Aint.Heavy.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4dRtXjk1rcsZlaMJpBn6Nh9cTfO.jpg",Arena Wars (2024)
+https://streamsilk.com/data/6778a5bf9ad3a/6778a5bf9ad3a720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",Number 24 (2024)
+https://stream.hownetwork.xyz/xxx/nr-24-2024-webdl_X_b5cf6af1/28/480.m3u8
+https://stream.hownetwork.xyz/xxx/number-24-2024-webdl_X_5c192264/28/480.m3u8
+https://streamsilk.com/data/677bd0e6a67b3/677bd0e6a67b3480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Number.24.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1N3fUoHGDYalgYOCsM05QVsQH8n.jpg",Doll Bride (2024)
+https://streamsilk.com/data/6770fa933a510/6770fa933a510720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l5sZYHCON0tyl4Moeg4XRswYMCY.jpg",The Bride and The Beast (2024)
+https://streamsilk.com/data/67710889b5424/67710889b5424720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg", IF (2024) 
+https://streamsilk.com/data/6770fd163e893/6770fd163e893720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9pUfIZt4adPwJ5KnutwRjoQO93r.jpg", Late Bloomers (2024) 
+https://streamsilk.com/data/6770ff9194624/6770ff9194624720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4NlOISiaAO5SLl5RJ1cxLcyn2xf.jpg", Northeast Folktales (2024)
+https://streamsilk.com/data/677104509ee7c/677104509ee7c720.m3u8
+https://stream.hownetwork.xyz/yyy/northeast-folktales-2024-webdl_X_fb2d2a5c/22/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yjBbl4iLk3Zj5erRq4FjlyyTrWu.jpg",Riddle of Fire (2024)
+https://streamsilk.com/data/677625b578bb8/677625b578bb8720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/q1JPhGLjsUnq3TREmP2jzWswc6m.jpg",Robin and the Hoods (2024)
+https://streamsilk.com/data/677625187effa/677625187effa720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",Mufasa - The Lion King (2024) HDRIP
+https://streamsilk.com/data/6774f95ba0cf3/6774f95ba0cf3720.m3u8
+https://seneng.org/v/driveid-194550-webdl-1080-terbit21-com-mufasa-the-lion-king-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pKqKm3ZiY9kPlv2l8kXG2XtFErz.jpg",Don Dukun (2024)
+https://stream.hownetwork.xyz/xxx/don-dukun-2024-webdl_X_9db2733f/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Don.Dukun.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aDSDYHUX8xx6QwQj63qtmgvySj5.jpg",Diplodocus (2024)
+https://stream.hownetwork.xyz/xxx/diplodocus-2024-webdl_X_56ec1ca6/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Diplodocus.2024.mp4/tracks-v1a1/mono.m3u8
+https://seneng.org/v/driveid-194491-webdl-1080-terbit21-com-diplodocus-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/01/film-dirty-money-2024-lk21-d21.jpg.webp",Dirty Money (2024)
+https://stream.hownetwork.xyz/xxx/dirty-money-2024-hdtv_X_3372eab3/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Dirty.Money.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3XWGldq2HTOxwN8GUIGD8uuyade.jpg",Avicii - I'm Tim (2024)
+https://stream.hownetwork.xyz/xxx/avicii-im-tim-2024-webdl_X_9cb869ab/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Avicii.Im.Tim.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/6776d8a0922cc/6776d8a0922cc480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",Wicked (2024)
+https://stream.hownetwork.xyz/xxx/wicked-2024-webdl_X_3428dc29/28/480.m3u8
+https://streamsilk.com/data/677671993564e/677671993564e480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Wicked.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/15dpftkOyuwZWKwko25Yos0A6tC.jpg",Vama Veche Retreat (2024)
+https://stream.hownetwork.xyz/xxx/retreat-vama-veche-2024-webdl_X_dc6645a3/28/480.m3u8
+https://streamsilk.com/data/67763c86a6f0b/67763c86a6f0b480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Retreat.Vama.Veche.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/erEAU7ygq2XFjziI3FpAdMajJFZ.jpg",Wake Up (2024)
+https://stream.hownetwork.xyz/xxx/wake-up-2024-webdl_X_9a0dcee6/28/480.m3u8
+https://streamsilk.com/data/6776296384836/6776296384836480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Wake.Up.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",Ride (2024)
+https://stream.hownetwork.xyz/xxx/ride-2024-bluray_X_48d8e2f1/28/480.m3u8
+https://streamsilk.com/data/67762181411af/67762181411af480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Ride.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",Kraven the Hunter (2024)
+https://stream.hownetwork.xyz/xxx/kraven-the-hunter-2024-webdl_X_ea68b9ae/28/480.m3u8
+https://streamsilk.com/data/67759012b9d6c/67759012b9d6c480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Kraven.The.Hunter.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AeVotaRDwhKeG5km1xa3HBGzjKZ.jpg",Suffocating Love (2024)
+https://stream.hownetwork.xyz/xxx/suffocating-love-2024-webdl_X_3991cb39/28/480.m3u8
+https://streamsilk.com/data/67758c78ded3b/67758c78ded3b480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Suffocating.Love.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/fdgf-152x228.jpg",Cloud (2024)
+https://streamsilk.com/data/6774de9d1bdf5/6774de9d1bdf5720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qFs9SMF5v6n0Pxtiwd9eOXNCcWV.jpg",I am the Secret in Your Heart (2024)
+https://stream.hownetwork.xyz/xxx/i-am-the-secret-in-your-heart-xia-ri-de-ning-meng-cao-2024-webdl_X_8ba53e5e/28/480.m3u8
+https://streamsilk.com/data/6773b33353448/6773b33353448480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5bYS5YH4BFjRwT5yqSuA5CMDxRv.jpg",Black Eyed Susan (2024)
+https://streamsilk.com/data/6772c7476e2cd/6772c7476e2cd720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7BvALxMzfW9lJFn1lY2zmKjx78B.jpg",Better Man (2024)
+https://streamsilk.com/data/6772bac9e30ce/6772bac9e30ce720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hiHIGPP50bgatXq3nBep2aSJiKj.jpg",Brotherhood of Blades: Exterminate Evil (2024)
+https://streamsilk.com/data/67726a1d013c2/67726a1d013c2720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://klikxxi.com/wp-content/uploads/2024/12/p5K80x4dPwSURwtqk9aBOsmvO9A-152x228.jpg",Cold Rain Sword (2024)
+https://streamsilk.com/data/67724fc1e0fe2/67724fc1e0fe2720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s6iSPGkpEHwcztNmNIMr21M6inK.jpg",The Volunteers: The Battle of Life and Death (2024)
+https://stream.hownetwork.xyz/xxx/the-volunteers-the-battle-of-life-and-death-2024-webdl_X_5f1e843b/28/480.m3u8
+https://streamsilk.com/data/67739fc35d89f/67739fc35d89f480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nwW5GkkVbbKQO1XiBMRd1s6usvi.jpg",The Unwavering Brotherhood (2024)
+https://stream.hownetwork.xyz/xxx/the-unwavering-brotherhood-2024-bluray_X_072795bb/28/480.m3u8
+https://streamsilk.com/data/6773925234c1b/6773925234c1b480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/The.Unwavering.Brotherhood.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eKjGgPObUU2l6MipRn7tXKUz4Vv.jpg",Heavier Trip (2024)
+https://stream.hownetwork.xyz/xxx/heavier-trip-2024-webdl_X_27e46ff3/28/480.m3u8
+https://streamsilk.com/data/67738c09bdd69/67738c09bdd69480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Heavier.Trip.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xjdaKVa6cKSFHgUBgSLi6SoUgGa.jpg",The Outrun (2024)
+https://stream.hownetwork.xyz/xxx/the-outrun-2024-bluray_X_5a7a678d/28/480.m3u8
+https://streamsilk.com/data/6773834938519/6773834938519480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg",Wallace & Gromit: Vengeance Most Fowl (2024)
+https://stream.hownetwork.xyz/xxx/wallace-gromit-vengeance-most-fowl-2024-webdl_X_39c4d634/28/480.m3u8
+https://streamsilk.com/data/677963a5df829/677963a5df829480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Wallace.Gromit.Vengeance.Most.Fowl.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w7LTgu7kiwvBgoKLhtc9vP1IDgr.jpg",Catching Dust (2024)
+https://stream.hownetwork.xyz/xxx/catching-dust-2024-webdl_X_bdcb0180/28/480.m3u8
+https://streamsilk.com/data/67727c904c3dc/67727c904c3dc480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Catching.Dust.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/elKEzHpbdoTMkK0IpUKcK6x1Ttl.jpg",Lost on a Mountain in Maine (2024)
+https://stream.hownetwork.xyz/xxx/lost-on-a-mountain-in-maine-2024-webdl_X_4ffc2680/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Lost.on.a.Mountain.in.Maine.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/67796ad5827e9/67796ad5827e9480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xCO3v95JTVHyYp8cKRh8VwaQKrT.jpg",To Gather Around (2024)
+https://e102.encosilk.cc/storage/677121c9e972f.mp4|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nyEr1VqvKx1YiesMC3oTB2fZvpY.jpg",Sonic the Hedgehog 3 (2024) HDTS
+https://streamsilk.com/data/6770f47a119aa/6770f47a119aa720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",Through My Window 3: Looking at You (2024)
+https://streamsilk.com/data/677014e40cd4a/677014e40cd4a720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",Bureau 749 (2024)
+https://streamsilk.com/data/676fe9f9d283a/676fe9f9d283a720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bWTPhWnT7BwtqIJycfy0d4Ihtvk.jpg",Silent Island: Strange Beasts (2024)
+https://stream.hownetwork.xyz/xxx/the-strange-beast-of-silent-island-silent-island-strange-beasts-2024-webdl_X_756f65e2/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/The.Strange.Beast.of.Silent.Island.Silent.Island.Strange.Beasts.2024.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/676feb3954535/676feb3954535720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3nBr1HD711Zo8pBFr5ZUDQ4Wyql.jpg",Crisis Negotiators (2024)
+https://streamsilk.com/data/6770d1bb01302/6770d1bb01302720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yeRMk0lXMqO2nraQrkF1t9EfY7Y.jpg",Kurayukaba (2024)
+https://streamsilk.com/data/6770d0c6ccedd/6770d0c6ccedd720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dtIWcxnueqEOg2WhIk4cHjtv41D.jpg",Detained (2024)
+https://streamsilk.com/data/6770d0a552caf/6770d0a552caf720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lnXPR9I0EtLPbnX2slhzxQFFaIp.jpg",The Yin-Yang Master Zero (2024)
+https://streamsilk.com/data/6770d043489a9/6770d043489a9720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hivi6Swn1UINO3xYGzNhAFx6Dkv.jpg",Torching 2024: A Roast of the Year (2024)
+https://streamsilk.com/data/67708c71dcd3b/67708c71dcd3b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xf9qrzAe5DgM0z6DBDLJ8aoP7im.jpg",Purgatory Station (2024)
+https://streamsilk.com/data/67708c368b7c6/67708c368b7c6720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sSdHQXvLdJUQL2xXMdK0kAafeea.jpg",A Fireman for Christmas (2024)
+https://streamsilk.com/data/67708bbda1239/67708bbda1239720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lfQJnrtHlOS7Y2unMqyEbyhxJTJ.jpg",Welcome Week: A College Horror Anthology (2024)
+https://ss08.tubzde.cc/data/4/676e401a6c190/hls720/676e401a6c190720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oSbu5XhTHyXFrj04qVDHxD8kQBP.jpg",Tiddler (2024)
+https://stream.hownetwork.xyz/xxx/tiddler-2024-webdl_X_3a9a76c5/26/480.m3u8
+https://streamsilk.com/data/677146c71eec5/677146c71eec5720.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Tiddler.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nqdGiakjgecLoC8ON5AMBdNBigv.jpg",Nightbitch (2024)
+https://stream.hownetwork.xyz/xxx/nightbitch-2024-webdl_X_2ba3bfad/26/480.m3u8
+https://streamsilk.com/data/677144c0d6b6c/677144c0d6b6c480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Nightbitch.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/npfj4JNPL7LEq6xRQn32nUnFzpb.jpg",Hauntology (2024)
+https://stream.hownetwork.xyz/xxx/hauntology-2024-webdl_X_e7648964/26/480.m3u8
+https://streamsilk.com/data/67713b97e981a/67713b97e981a480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Hauntology.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",Subservience (2024)
+https://stream.hownetwork.xyz/xxx/subservience-2024-bluray_X_659d5de9/26/480.m3u8
+https://streamsilk.com/data/6770f50a45bdf/6770f50a45bdf480.m3u8
+https://stream.hownetwork.xyz/xxx/subservience-2024-webdl_X_f9b6c263/20/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",The Return (2024)
+https://stream.hownetwork.xyz/xxx/the-return-2024-webdl_X_633ad751/26/480.m3u8
+https://streamsilk.com/data/6770ee5ef0efb/6770ee5ef0efb480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/The.Return.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p0NK3bXt5AC6cL3R57DdWLFMGYH.jpg",Your Friend, Nate Bargatze (2024)
+https://stream.hownetwork.xyz/xxx/your-friend-nate-bargatze-2024-webdl_X_288de6c0/26/480.m3u8
+https://streamsilk.com/data/6770e255b8714/6770e255b8714480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Your.Friend.Nate.Bargatze.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg",The Lord of the Rings: The War of the Rohirrim (2024)
+https://stream.hownetwork.xyz/xxx/the-lord-of-the-rings-the-war-of-the-rohirrim-2024-webdl_X_19a8cb9d/26/480.m3u8
+https://ss03.silkanu.cc/data/6/676fbb85539f3/hls480/676fbb85539f3480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/The.Lord.of.the.Rings.The.War.of.the.Rohirrim.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nLbFUAhAKJJRACzSQ1pQoeQkarR.jpg",Out of Season (2024)
@@ -35448,23 +35987,26 @@ https://seneng.org/v/driveid-192571-bluray-1080-terbit21-com-out-of-season-2024.
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t4MiAeYpjL7saYvqvcn9xtOfA4K.jpg",Conjuring the Cult (2024)
-https://ss08.tubzde.cc/data/1/676eda7582451/hls720/676eda7582451720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nqdGiakjgecLoC8ON5AMBdNBigv.jpg",Nightbitch (2024)
-https://ss03.silkanu.cc/data/9/676e889c9d0f7/hls720/676e889c9d0f7720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/conjuring-the-cult-2024-webdl_X_73d8818c/26/480.m3u8
+https://ss01.tubzde.cc/data/E/676fbbf19faeb/hls480/676fbbf19faeb480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Conjuring.the.Cult.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",Your Fault – Culpa Tuya (2024)
-https://ss07.tubzde.cc/data/1/676e8413508ff/hls720/676e8413508ff720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/yyy/culpa-tuya-2024-webdl_X_532abf7c/26/https:///xxx/culpa-tuya-2024-webdl_X_532abf7c/26/480.m3u8
+https://ss10.silkanu.cc/data/3/676fbab8df400/hls480/676fbab8df400480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Culpa.Tuya.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cd37ZFDQUFPqHeHUgYB7nz1feRB.jpg",Ghost of Spring (2024)
-https://ss08.tubzde.cc/data/4/676e760bde210/hls720/676e760bde210720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/ghost-of-spring-2024-webdl_X_d21ee8d1/28/480.m3u8
+https://streamsilk.com/data/67729e71df32a/67729e71df32a480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zTD9HytRG1nfP5pdOAYmPyXj05d.jpg",Uranus 2324 (2024)
-https://ss11.silkanu.cc/data/3/676e2eca5c114/hls720/676e2eca5c114720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/uranus-2324-2024-webdl_X_2547d9d7/26/480.m3u8
+https://ss07.tubzde.cc/data/4/676fb9cef189e/hls480/676fb9cef189e480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Uranus.2324.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2HieLNnv3vxHysAZoBrxaR6VVDd.jpg",Yakuza Girl (2024)
@@ -35492,8 +36034,9 @@ https://ss04.silkanu.cc/data/7/676c29c9f3664/hls720/676c29c9f3664720.m3u8|refere
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rdlWFMjz35aNfXC78aNvdLtrZgC.jpg",Whispers of Betrayal: The Drug Underworld (2024)
-https://ss01.tubzde.cc/data/B/676b9f50c5acb/hls720/676b9f50c5acb720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-https://e02.encosilk.cc/storage/676b9f50c5acb.mp4
+https://stream.hownetwork.xyz/xxx/whispers-of-betrayal-the-drug-underworld-2024-webdl_X_2cb642d4/28/480.m3u8
+https://streamsilk.com/data/6771a4c75ec85/6771a4c75ec85480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Whispers.of.Betrayal.The.Drug.Underworld.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8LCaJujpsJuWnlhdFUVc0WGWSNq.jpg",SuperKlaus (2024)
@@ -35501,7 +36044,9 @@ https://ss05.silkanu.cc/data/9/676acce492353/hls720/676acce492353720.m3u8|refere
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/65uHWcpxDkIw6wpOyTVmFxEPWvL.jpg",Bad Tidings (2024)
-https://ss09.tubzde.cc/data/A/676abd791051d/hls720/676abd791051d720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/bad-tidings-2024-webdl_X_9e5c9747/26/480.m3u8
+https://streamsilk.com/data/6770db30d8000/6770db30d8000480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Bad.Tidings.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qH9VoUVO2rOVT3BrzP2SHOHtwrL.jpg",All I Need for Christmas (2024)
@@ -35523,7 +36068,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/15/Y2K.2024.mp
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/96LljvrTGesFPzRiytTrBgPV8W9.jpg",Bird (2024)
-https://ss08.tubzde.cc/data/6/676a90ba5cc30/hls720/676a90ba5cc30720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/bird-2024-webdl_X_0305861c/28/480.m3u8
+https://streamsilk.com/data/6774eda39dd5c/6774eda39dd5c480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Bird.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cN44GBHiS5ONvOqqLUg6XerXJ64.jpg",The Order (2024)
@@ -35542,16 +36089,8 @@ https://e100.encosilk.cc/storage/676af99347cf4.mp4
 https://ss02.tubzde.cc/data/8/676a5f5c6a944/hls720/676a5f5c6a944720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",Mufasa - The Lion King (2024) TS
-https://ss07.tubzde.cc/data/8/676a27f550286/hls720/676a27f550286720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9rmNg1asmEo6WjZxw3aPMjkr531.jpg",Audrey (2024)
 https://ss05.silkanu.cc/data/7/6767abce92112/hls720/6767abce92112720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nyEr1VqvKx1YiesMC3oTB2fZvpY.jpg",Sonic the Hedgehog 3 (2024) CAM
-https://ss05.silkanu.cc/data/5/676721102c603/hls720/676721102c603720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/unzrTKmdrNsIulZ5ddLqVz9YYLW.jpg",All Stirred Up! (2024)
@@ -35624,15 +36163,14 @@ https://ss12.silkanu.cc/data/9/67683a4fb0f3c/hls480/67683a4fb0f3c480.m3u8|refere
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Cursed.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/12/film-this-is-benjamin-ingrosso-part-2-2024-lk21-d21.jpg.webp",This Is Benjamin Ingrosso Part 2 (2024)
+https://stream.hownetwork.xyz/xxx/this-is-benjamin-ingrosso-part-2-2024-webdl_X_8dd1edce/26/480.m3u8
+https://ss09.tubzde.cc/data/D/676fb70af14dd/hls480/676fb70af14dd480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/li4sZ2TayHpxfSbSgYcI2DwMEOC.jpg",This Is Benjamin Ingrosso (2024)
 https://stream.hownetwork.xyz/xxx/this-is-benjamin-ingrosso-part-1-2024-webdl_X_a174ddd0/26/480.m3u8
 https://ss09.tubzde.cc/data/2/6767fb0583363/hls480/6767fb0583363480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",Kraven the Hunter (2024)
-https://stream.hownetwork.xyz/xxx/kraven-the-hunter-2024-webdl_X_bf6d3192/26/480.m3u8
-https://ss10.silkanu.cc/data/4/676821e5e0625/hls480/676821e5e0625480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Kraven.The.Hunter.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fttoFfKikQMwIoV3UVvlCvBhbUw.jpg",Project Silence (2024)
@@ -35708,7 +36246,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/10/Moana.2.202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sBceE9s0yGqacmsE8h5VTE3qZjc.jpg",The Crossroads (2024)
 https://stream.hownetwork.xyz/xxx/the-crossroads-2024-webdl_X_9d30a5d0/26/480.m3u8
-https://ss12.silkanu.cc/data/0/6762d4ac82141/hls480/6762d4ac82141480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://seneng.org/v/driveid-193618-webrip-1080-terbit21-com-the-crossroads-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/09/The.Crossroads.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -35792,12 +36330,16 @@ https://ss10.silkanu.cc/data/7/675c1698783ca/hls720/675c1698783ca720.m3u8|refere
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Een.schitterend.gebrek.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p4dbgU6UKENz5f2Tp8wqcdWIxkg.jpg",From Embers (2024)
-https://ss11.silkanu.cc/data/C/675c166057a16/hls720/675c166057a16720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iQruQTUjyBtqkWuOwSu4G5rx3j5.jpg",Alemania (2024)
+https://stream.hownetwork.xyz/xxx/alemania-2024-webdl_X_66bf4f8b/26/480.m3u8
+https://streamsilk.com/data/67718fd65690a/67718fd65690a480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Alemania.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gUIBW4NKSFQ2GiJLLULDmtHT21.jpg",Timestalker (2024)
-https://ss10.silkanu.cc/data/2/675be1600f40d/hls720/675be1600f40d720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/timestalker-2024-webdl_X_6aeab4d5/26/480.m3u8
+https://streamsilk.com/data/677181be5dc41/677181be5dc41480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/16/Timestalker.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Ha3Bn9zKgKWgiwiTogH2GFACnl.jpg",A Beautiful Imperfection (2024)
@@ -36175,10 +36717,6 @@ https://ss06.tubzde.cc/data/1/6751421933acc/hls720/6751421933acc720.m3u8|referer
 https://ss01.tubzde.cc/data/A/6751416b93678/hls720/6751416b93678720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",Flow (2024)
-https://ss05.silkanu.cc/data/5/67513fb6de9c0/hls720/67513fb6de9c0720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9aJR7ySKWiG9VXdtIVMhnhFE51e.jpg",The Circuit 4 - Faith Fighter (2024)
 https://ss07.tubzde.cc/data/E/6750c6a78cd8c/hls720/6750c6a78cd8c720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -36516,10 +37054,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/02/Welcome.To.
 https://ss09.tubzde.cc/data/7/67448ee60b237/hls720/67448ee60b237720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",Wicked (2024) TC
-https://ss08.tubzde.cc/data/B/6744219977279/hls720/6744219977279720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qEMkV2Un6wy34y3UtRnzfE7yBOh.jpg",A Dark Story – Una Storia Nera (2024)
 https://ss06.tubzde.cc/data/C/67436a85d3e96/hls720/67436a85d3e96720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -36529,7 +37063,8 @@ https://ss11.silkanu.cc/data/2/674595ec695b0/hls720/674595ec695b0720.m3u8|refere
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z34jEduNNoSwlKQbil18ZmfVoWw.jpg",Bangkok Dog (2024)
-https://ss12.silkanu.cc/data/9/6743133a35ccd/hls720/6743133a35ccd720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://streamsilk.com/data/6774eee944c21/6774eee944c21720.m3u8
+https://seneng.org/v/driveid-194133-webdl-1080-terbit21-com-bangkok-dog-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/duF8oeH3AE5rBe4T4x39RZpE5ub.jpg",Spread (2024)
@@ -36565,12 +37100,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/16/Whiteout.20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/i9SQgIW6vWjGpToHDOrI2gQYoCN.jpg",The Shade (2024)
 https://ss06.tubzde.cc/data/0/674080675009e/hls720/674080675009e720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",Armor (2024)
-https://stream.hownetwork.xyz/xxx/armor-2024-webdl_X_d8f20578/26/480.m3u8
-https://ss12.silkanu.cc/data/A/6741f21fb15d9/hls480/6741f21fb15d9480.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-https://ss02.tubzde.cc/data/E/674062d65525a/hls720/674062d65525a720.m3u8|referer=https://ss02.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yWI62QKrIAVDIQ3NKieCmxSDiB8.jpg",Remnant (2024)
@@ -37002,6 +37531,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/11/Get.Fast.20
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2HSvt2PF2tSyKL4GRRniwE1URGI.jpg",You Will Die in 6 Hours (2024)
+https://streamsilk.com/data/6774eb6bd456c/6774eb6bd456c720.m3u8
 https://ss03.silkanu.cc/data/8/6736fd9daa59e/hls720/6736fd9daa59e720.m3u8|referer=https://ss03.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -37369,12 +37899,6 @@ https://ss03.silkanu.cc/data/9/672d61dec53e5/hls720/672d61dec53e5720.m3u8|refere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gMqwvbh7ecB8g7XPsmMQ5xBzNxL.jpg",Catnado (2024)
 https://ss12.silkanu.cc/data/F/672d6027d552c/hls720/672d6027d552c720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xjdaKVa6cKSFHgUBgSLi6SoUgGa.jpg",The Outrun (2024)
-https://stream.hownetwork.xyz/xxx/the-outrun-2024-webdl_X_9095c87f/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/05/The.Outrun.2024.mp4/tracks-v1a1/mono.m3u8
-https://ss05.silkanu.cc/data/A/672b81be1a786/hls720/672b81be1a786720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg",Meet Me Next Christmas (2024)
@@ -37910,11 +38434,6 @@ https://stream.hownetwork.xyz/xxx/elevator-2024-webdl_X_78a80118/26/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/16/Elevator.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/10/film-the-wild-robot-2024-lk21-d21.jpg.webp",The Wild Robot 2024
-https://stream.hownetwork.xyz/xxx/the-wild-robot-2024-webdl_X_adc5b7cc/26/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/The.Wild.Robot.2024.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-love-stuck-2024-lk21-d21.jpg.webp",Love Stuck 2024
 https://stream.hownetwork.xyz/xxx/love-stuck-2024-webdl_X_3ba1a685/26/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/Love.Stuck.2024.mp4/tracks-v1a1/mono.m3u8
@@ -38402,10 +38921,6 @@ https://stream.hownetwork.xyz/xxx/booger-2024-webdl_X_54a9a21c/20/480.m3u8
 https://stream.hownetwork.xyz/xxx/horizon-an-american-saga-chapter-1-2024-bluray_X_3ee96750/20/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/09/film-subservience-2024-lk21-d21.jpg.webp",Subservience 2024
-https://stream.hownetwork.xyz/xxx/subservience-2024-webdl_X_f9b6c263/20/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/09/film-here-after-2024-lk21-d21.jpg.webp",Here After 2024
 https://stream.hownetwork.xyz/xxx/here-after-2024-webdl_X_5d78c4fa/20/480.m3u8
 
@@ -38491,16 +39006,19 @@ https://stream.hownetwork.xyz/xxx/the-good-half-2024-webdl_X_5bbce7fd/25/480.m3u
 https://stream.hownetwork.xyz/xxx/lady-scorpions-2024-webdl_X_5a645a65/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-star-abyss-2024-lk21-d21.jpg.webp",Star Abyss 2024
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7WJOD7UgfL10Zep9lXrJuuc2e1r.jpg", Star Abyss (2024)
 https://stream.hownetwork.xyz/xxx/star-abyss-2024-bluray_X_fc6974eb/25/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/04/Star.Abyss.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/09/film-apollo-13-survival-2024-lk21-d21.jpg.webp",Apollo 13: Survival 2024
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9tuK9kKSB2L6rMVlNOjwiWQaWxh.jpg",Apollo 13: Survival (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/04/Apollo.13.Survival.2024.mp4/tracks-v1a1/mono.m3u8
 https://stream.hownetwork.xyz/xxx/apollo-13-survival-2024-webdl_X_77701766/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/09/film-fury-12-hours-2024-lk21-d21.jpg.webp",Fury 12 Hours 2024
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c2ZtLl1EATKymqUlmNYFdI817tn.jpg",Fury 12 Hours (2024)
 https://stream.hownetwork.xyz/xxx/fury-12-hours-2024-webdl_X_104fef9b/25/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/04/Fury.12.Hours.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/09/film-the-forest-killer-lesni-vrah-2024-lk21-d21.jpg.webp",The Forest Killer 2024
@@ -38540,8 +39058,9 @@ https://stream.hownetwork.xyz/xxx/the-rooster-2024-webdl_X_753e50ab/25/480.m3u8
 https://stream.hownetwork.xyz/xxx/crossing-2024-webdl_X_1c5eadf3/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/09/film-first-shift-2024-lk21-d21.jpg.webp",First Shift 2024
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ajsGI4JYaciPIe3gPgiJ3Vw5Vre.jpg",First Shift (2024)
 https://stream.hownetwork.xyz/xxx/first-shift-2024-webdl_X_ebb1b418/25/480.m3u8
+https://e102.encosilk.cc/storage/6777f535bf3ea.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/09/film-out-come-the-wolves-2024-lk21-d21.jpg.webp",Out Come the Wolves 2024
@@ -39126,10 +39645,6 @@ https://stream.hownetwork.xyz/yyy/doll-bride-2024-webdl_X_99703cdb/22/480.m3u8
 https://stream.hownetwork.xyz/yyy/the-bride-and-the-beast-2024-webdl_X_f235562b/22/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-northeast-folktales-2024-lk21-d21.jpg",Northeast Folktales 2024 (Chn)
-https://stream.hownetwork.xyz/yyy/northeast-folktales-2024-webdl_X_fb2d2a5c/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-hovering-blade-2024-lk21-d21.jpg",Hovering Blade 2024 (Chn)
 https://stream.hownetwork.xyz/yyy/hovering-blade-2024-webdl_X_4503e570/22/480.m3u8
 
@@ -39343,6 +39858,168 @@ https://stream.hownetwork.xyz/xxx/air-force-one-down-2024-webdl_X_ea0f1fc1/20/48
 //========================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4OssM7NA3SbUea6iI7XAAC4BOT0.jpg",Born to Fly (2023)
+https://stream.hownetwork.xyz/xxx/born-to-fly-2023-bluray_X_94b8d0e9/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Born.to.Fly.2023.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e285636d1f/677e285636d1f720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/91vF7SNB2tqsSultsmEn8tJYh4l.jpg",Acid (2023)
+https://stream.hownetwork.xyz/xxx/acid-2023-bluray_X_1d590655/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Acid.2023.mp4/tracks-v1a1/mono.m3u8
+https://ss01.tubzde.cc/data/B/677e00f58f14d/hls720/677e00f58f14d720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dPtIosJaXBlBADfTqhYY2suRuhi.jpg",Bibi (2023)
+https://stream.hownetwork.xyz/xxx/bibi-2023-webdl_X_df4c141c/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Bibi.2023.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e8415e70e9/677e8415e70e9720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eFfxIUhRYKEFftjDlxB4aiX8ymx.jpg",Beautiful Friend (2023)
+https://streamsilk.com/data/677ea244d3c85/677ea244d3c85720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/odres4BzAB0Y6k9xU5VhuXWV3Ol.jpg",Sirocco and the Kingdom of Winds (2023)
+https://streamsilk.com/data/677dfa3deb24c/677dfa3deb24c720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5g1i5EJgMNI70titUJSIBKpmEVt.jpg",The Birth of Kitaro: The Mystery of GeGeGe (2023)
+https://streamsilk.com/data/677df9872dfe0/677df9872dfe0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/drqyVMi9rphWhMRCPwqsQBmtVWj.jpg",Barry Humphries: The Last Laugh (2023)
+https://ss12.silkanu.cc/data/C/677cddbbcc3a3/hls720/677cddbbcc3a3720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kVzDGiLKlyzLD8jrNn9GbuPwm6K.jpg",Nightwatch: Demons Are Forever (2023)
+https://streamsilk.com/data/677c4813d6fff/677c4813d6fff720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g9I1TsGYWMOiFSMfyRTnjhP9hdN.jpg",Limbo (2023)
+https://streamsilk.com/data/677bb4aad92b5/677bb4aad92b5720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hnzXoDaK346U4ByfvQenu2DZnTg.jpg",They Cloned Tyrone (2023)
+https://streamsilk.com/data/677b61b19a3e9/677b61b19a3e9720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/u1JUhyzjrQzsC3aewLRPjRsry1y.jpg",My House (2023)
+https://streamsilk.com/data/677b6143d61a2/677b6143d61a2720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg",Manodrome (2023)
+https://streamsilk.com/data/677b60f8aabc4/677b60f8aabc4720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tCL4U4nySiijUF2wTuB247KJbmT.jpg",Older Gods (2023)
+https://streamsilk.com/data/6777aae4c630f/6777aae4c630f720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yeopyZbtwX0sgsndJU6vQj1uxrb.jpg",Vindicta (2023)
+https://streamsilk.com/data/677b608411304/677b608411304720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fn0EHiPtbVJ0aH74rRVnWfq6p6h.jpg",Double Life (2023)
+https://streamsilk.com/data/677b53f35b123/677b53f35b123720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6xcxeh9BBWlEMrbdCssMljb0Yui.jpg",The Initiated (2023)
+https://streamsilk.com/data/677b53ca0dcd3/677b53ca0dcd3720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",Anatomy of a Fall (2023)
+https://ss10.silkanu.cc/data/F/67332fcf9035b/hls720/67332fcf9035b720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9IUO7PyXLM3cSVoX4z9f6eIATiM.jpg",A Guilty Conscience (2023)
+https://streamsilk.com/data/677b6d8ea21a0/677b6d8ea21a0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg",The Tutor (2023)
+https://streamsilk.com/data/677b52d9512be/677b52d9512be720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rWMwmTktUaxHBWV1VlJWUFkOOhk.jpg",The Three Musketeers – Part II: Milady (2023)
+https://stream.hownetwork.xyz/xxx/the-three-musketeers-part-ii-milady-2023-bluray_X_22ed772f/28/480.m3u8
+https://e102.encosilk.cc/storage/677bed260efd9.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",Rye Lane (2023)
+https://stream.hownetwork.xyz/xxx/rye-lane-2023-webdl_X_f9afbe46/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/04/Rye.Lane.2023.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677bc7882ecdc/677bc7882ecdc720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/x2MNLII4hEYwau7ZZW3mQoTR5Fd-152x228.jpg", A Ghost Story for Christmas: Lot No. 249 (2023) 
+https://streamsilk.com/data/6774dee784565/6774dee784565720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/489kEvaylSuutUJ0GVVs6gUmirB.jpg",The Inventor (2023)
+https://stream.hownetwork.xyz/xxx/the-inventor-2023-webdl_X_8b0d4833/28/480.m3u8
+https://streamsilk.com/data/677920d1a0667/677920d1a0667480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/The.Inventor.2023.mp4/tracks-v1a1/mono.m3u8
+https://seneng.org/v/driveid-194490-webdl-1080-terbit21-com-the-inventor-2023.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ublW5LBhhIlZIO7eV3AWjfLzIAb.jpg",Year of the Fox (2023)
+https://ss08.tubzde.cc/data/6/6777fe47505d9/hls480/6777fe47505d9480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg",Prom Pact (2023)
+https://ss09.tubzde.cc/data/2/67762be874ae2/hls720/67762be874ae2720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5JoTI5Nrh2U639WfwUk0Akum7fQ.jpg",The Naughty Nine (2023)
+https://streamsilk.com/data/67762b8d53955/67762b8d53955720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg",The Other Zoey (2023)
+https://streamsilk.com/data/67762b45ee083/67762b45ee083720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg",Love in Taipei (2023)
+https://streamsilk.com/data/67762b0658bd7/67762b0658bd7720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zceLrHeYOgJHw1tw6MUi15N2NUz.jpg",The Quest for Tom Sawyer's Gold (2023)
+https://streamsilk.com/data/67762acb05d58/67762acb05d58720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gofbO3y7YsjdIZfrOATKK5WTkLD.jpg",Christmas in Maple Hills (2023)
+https://stream.hownetwork.xyz/xxx/christmas-in-maple-hills-2023-webdl_X_580b8783/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Christmas.in.Maple.Hills.2023.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/6773a89267ce0/6773a89267ce0480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dYYD0lR6QWRkg5E0Mw6u1YD7uNa.jpg",Sapiosexual (2023)
+https://streamsilk.com/data/6772037a31dd0/6772037a31dd0720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/to4cAjZoTBjCHLq81UtElEZiP7T.jpg",Imani (2023)
+https://streamsilk.com/data/67714c2d02bd7/67714c2d02bd7720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",Candy Cane Lane (2023)
+https://ss01.tubzde.cc/data/E/676facd568681/hls720/676facd568681720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9ziVr2UUvwqbjD7lf1R0sdL6DNv.jpg",Mom, Is That You?! (2023)
+https://ss04.silkanu.cc/data/9/676fac894c205/hls720/676fac894c205720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kLoTrRVEhkwDaZvV0aOFrD1fRXg.jpg",Saloum (2023)
+https://stream.hownetwork.xyz/xxx/saloum-2023-bluray_X_db782309/26/480.m3u8
+https://streamsilk.com/data/67718573cd221/67718573cd221480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/02/Saloum.2023.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/szzatOPItyVhqemY3fUYx095rIx.jpg",Lost in Tomorrow (2023)
+https://stream.hownetwork.xyz/xxx/lost-in-tomorrow-2023-webdl_X_505de182/26/480.m3u8
+https://streamsilk.com/data/677114b24fd92/677114b24fd92480.m3u8
+https://streamsilk.com/data/677114b24fd92/677114b24fd92720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yJkr2O3iPWLqfTpAHpn5V7591v.jpg",Let the River Flow (2023)
 https://stream.hownetwork.xyz/xxx/let-the-river-flow-2023-bluray_X_49ac3d92/26/480.m3u8
 https://ss09.tubzde.cc/data/A/676d88e3b7815/hls480/676d88e3b7815480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
@@ -39364,9 +40041,9 @@ https://ss10.silkanu.cc/data/8/676a917716896/hls720/676a917716896720.m3u8|refere
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6EusOmx2tIQebIgFmmEhY52Y9ia.jpg",The Volunteers: To the War (2023)
-https://ss08.tubzde.cc/data/1/676af10159832/hls480/676af10159832480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/the-volunteers-the-battle-of-life-and-death-2024-webdl_X_5f1e843b/28/480.m3u8
+https://streamsilk.com/data/67739fc35d89f/67739fc35d89f480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/15/The.Volunteers.To.the.War.2023.mp4/tracks-v1a1/mono.m3u8
-https://e102.encosilk.cc/storage/676af10159832.mp4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2023" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/399MUSZtOlJF79IyyJjl950VRY5.jpg",The Settlers (2023)
@@ -40105,6 +40782,38 @@ https://stream.hownetwork.xyz/yyy/the-brotherhood-of-rebel-2023-bluray_X_4f29381
 //========================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k82GGrdKEajiR4y2UKvGs5ndX7i.jpg", Drug Hunter (2022)
+https://stream.hownetwork.xyz/xxx/drug-hunter-2022-webdl_X_f57a7034/28/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Drug.Hunter.2022.mp4/tracks-v1a1/mono.m3u8
+https://streamsilk.com/data/677e64ad4914b/677e64ad4914b720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b41M28V6GcA94NAvn24SVz6qfvB.jpg",Vampyres (2015)
+https://seneng.org/v/driveid-192913-bluray-1080-terbit21-com-vampyres-2015.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xdWjqmX4x0ObKIPqkr8Vptj99AZ.jpg",Dampyr (2022)
+https://ss03.silkanu.cc/data/B/676fac2291140/hls720/676fac2291140720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",Slash/Back (2022)
+https://ss02.tubzde.cc/data/0/676fa41314e33/hls720/676fa41314e33720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",Umma (2022)
+https://ss05.silkanu.cc/data/1/676fa3dac8133/hls720/676fa3dac8133720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/60Dy8eA5QyUHKHBmojXUtZxWdo8.jpg",Christmas Bloody Christmas (2022) 
+https://ss10.silkanu.cc/data/E/676fa902580a7/hls720/676fa902580a7720.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sfzsPyztEb13DBIewsdOcIyXgvi.jpg",Snowman (2022)
+https://stream.hownetwork.xyz/xxx/snowman-2022-webdl_X_e9b976e1/26/480.m3u8 
+https://streamsilk.com/data/6771347f3fc11/6771347f3fc11480.m3u8
+https://streamsilk.com/data/6771347f3fc11/6771347f3fc11720.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/so4lTfAVLtOm6ggHXJm9hXqXTgC.jpg",Who Kidnapped My Mom? (2022) 
 https://ss07.tubzde.cc/data/9/67699474858ef/hls480/67699474858ef480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/13/Who.Kidnapped.My.Mom.2022.mp4/tracks-v1a1/mono.m3u8
@@ -40333,6 +41042,12 @@ https://cdn7iv.diebutx.com/ownhls/2020/edb5c17fedeada545ebc280a4b4cd5cf/720p/ind
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> Marvel Universe
 //========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",Kraven the Hunter (2024)
+https://stream.hownetwork.xyz/xxx/kraven-the-hunter-2024-webdl_X_ea68b9ae/28/480.m3u8
+https://streamsilk.com/data/67759012b9d6c/67759012b9d6c480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Kraven.The.Hunter.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Marvel Universe" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",Venom - The Last Dance (2024)
@@ -40589,6 +41304,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017ifest.mp
 
 
 
-#EXTM3U billed-msg="😎Aktif s/d 20 Januari 2025|https://lynk.id/r.labs.id😎"
+#EXTM3U billed-msg="😎 Aktif s/d 20 Januari 2025 | https://lynk.id/r.labs.id 😎"
 
 ##### EMTEK GRUB ####
+
