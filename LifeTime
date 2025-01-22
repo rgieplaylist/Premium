@@ -4028,7 +4028,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family HD
 http://xciptv.8888play.one:80/228463308/r576049x/18760
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="hhttps://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO Family FHD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
 
 #EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",Cinemax HD
@@ -4847,7 +4847,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 ====
 
 
-#EXTINF:-1 group-title="PENGETAHUAN"  tvg-logo="https://i.imgur.com/je8MaLy",DISCOVERY ASIA
+#EXTINF:-1 group-title="PENGETAHUAN"  tvg-logo="https://i.imgur.com/je8MaLy.jpeg",DISCOVERY ASIA
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 ====
 EDT
@@ -4992,13 +4992,13 @@ SERIE A
 
 
 
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/81w3AhI.jpeg"  group-title="SERIE A",TNT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg"  group-title="SERIE A",TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1  tvg-logo="hhttps://i.imgur.com/81w3AhI.jpeg" group-title="SERIE A",TNT 3
+#EXTINF:-1  tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="SERIE A",TNT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -5612,10 +5612,10 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="AGAMA"tvg-logo="https://i.imgur.com/kdY7kjT.jpeg", Tawaf TV
+#EXTINF:-1 group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",Tawaf TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
  
- #EXTINF:-1 group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",MQ TV
+#EXTINF:-1 group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",MQ TV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -5839,7 +5839,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.pn https://i.imgur.com/XDDHZzi.jpeg g" group-title="OLAHRAGA POPULER",Sony Sports 3 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",Sony Sports 3 
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
