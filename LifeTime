@@ -496,53 +496,18 @@ https://canale.mizhls.ru/lb/premium5/playlist.m3u8
 https://canale.mizhls.ru/lb/premium6/playlist.m3u8
 
 
+===================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JpjtKep.png" group-title="CHANNEL | SPORT" , Peacock PL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sport-fr.png" group-title="CHANNEL | SPORT", Persiana Sports 
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/473595.m3u8
-
-#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORTS 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORTS 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/d2zwcve.png" group-title="CHANNEL | SPORT" , PLAY SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://iptv.wirdy.workers.dev/dazn-linear-053/stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="CHANNEL | SPORT"  tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",PeacockTV Premier League
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
+#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
-https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+=====================
 
 
 #EXTINF:-1 tvg-name="PolsatSport.pl" group-title="CHANNEL | SPORT" tvg-logo="https://iili.io/JpjtjTB.png", POLSAT SPORT
@@ -555,12 +520,8 @@ https://canale.mizhls.ru/lb/premium47/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium50/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PolsatSportPremium1.pl" group-title="CHANNEL | SPORT" tvg-logo="https://iili.io/JpNocpp.png", POLSAT SPORT PREMIUM 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts
 
-#EXTINF:-1 tvg-name="PolsatSportPremium2.pl" group-title="CHANNEL | SPORT" tvg-logo="https://iili.io/JpNovZ7.png", POLSAT SPORT PREMIUM 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
-
+========================
 
 
 
