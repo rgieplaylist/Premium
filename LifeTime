@@ -1282,21 +1282,7 @@ http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501590
 #EXTINF:-1 xui-id="14879" tvg-id="" tvg-name="SG: HUB SPORTS 5" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="CHANNEL | SPORT", HUB SPORTS 5
 http://jmrk.xyz:3050/acastillo304@gmail.com/zHsdw46ZEN/501589
 
-#EXTINF:-1 xui-id="7731" tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhMNQGoaAAxRJlUwBA2ar_nFQHDKOyETeOGOeMwza70HalM9calipgerCsyFzrLt7Ik.png" group-title="CHANNEL | SPORT",beIN SPORTS PREMIUM 1 Full-HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://xyzdddd.mizhls.ru/lb/premium98/playlist.m3u8
 
-
-#EXTINF:-1 xui-id="7732" tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhPM_Id3TLiTQtTzEPspMyMOYQ29e1JbfskuWFT7zA4XCvt1r1NIQHUYynXMQO4iS_8.png" group-title="CHANNEL | SPORT",beIN SPORTS PREMIUM 2 Full-HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium99/playlist.m3u8
-
-#EXTINF:-1 xui-id="7733" tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 Full-HD" tvg-logo="http://play.fastkobar.my.id:8080/images/w2OmUTQjO-I0KUNmdTsdrWy7nSPrYOBnlFdY23n1nhNh8lXmOfRvxYkqKPvXsPXbwP2NL84vdKKJdU6w955AApqMJX6bMdNSekYqi_KcO-M.png" group-title="CHANNEL | SPORT",beIN SPORTS PREMIUM 3 Full-HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium100/playlist.m3u8
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="CHANNEL | SPORT", RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
