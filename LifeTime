@@ -4,33 +4,6 @@
 
 #EXTINF:-1 group-logo="",CHANNEL | SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-three-qa.png" group-title="CHANNEL | SPORT", AL KASS 3
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://shoof.alkass.net/
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="CHANNEL | SPORT", AL KASS 4
-#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="CHANNEL | SPORT",Arena Bola 1
-http://jmrk.xyz:3050/cubiche06@gmail.com/8JRhkEgYZ4/605251
-
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="CHANNEL | SPORT",Arena Bola 2
-http://31.42.187.37:25461/watchpad13158/1234/332
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="CHANNEL | SPORT",Astro Football HD
-http://31.42.187.37:25461/watchpad13158/1234/111
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="CHANNEL | SPORT",Astro Grandstand HD
-http://31.42.187.37:25461/watchpad13158/1234/112
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="CHANNEL | SPORT",Astro Premier League 2 HD
-http://31.42.187.37:25461/watchpad13158/1234/113
-
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="CHANNEL | SPORT",Astro Premier League 1 HD
-http://31.42.187.37:25461/watchpad13158/1234/114
-
 
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-esport-rs.png" group-title="CHANNEL | SPORT", ARENA ESPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -49,7 +22,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
 
 #EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -81,7 +53,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1x2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT 1x2
+#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1x2-rs.png" group-title="CHANNEL | SPORT", ARENA SPORT [1x2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -110,25 +82,6 @@ https://canale.mizhls.ru/lb/premium135/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium139/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="CHANNEL | SPORT", Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="CHANNEL | SPORT",Arena Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.pulsesoftware.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 
 
 #EXTINF:-1 tvg-id="" group-title="CHANNEL | SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png", Bahrain Sport 1 
