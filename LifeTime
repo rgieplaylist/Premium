@@ -1100,15 +1100,6 @@ https://canale.mizhls.ru/lb/premium103/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium104/playlist.m3u8
 
-#EXTINF:-1 xui-id="11176" tvg-id="" tvg-name="PL: POLSAT SPORT HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Polsat_Sport_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/150?cb=20210819120448" group-title="CHANNEL | SPORT", POLSAT SPORT HD LQ
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/117495.m3u8
-
-#EXTINF:-1 xui-id="11178" tvg-id="" tvg-name="PL: Polsat Sport Premium 1 HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Polsat_Sport_Premium_1_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/200?cb=20210819120938" group-title="CHANNEL | SPORT", Polsat Sport Premium 1 HD LQ
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554980&extension=m3u8 
-
-#EXTINF:-1 xui-id="11179" tvg-id="" tvg-name="PL: Polsat Sport Premium 2 HD LQ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Polsat_Sport_Premium_2_2021_horizontal_gradient.svg/revision/latest/scale-to-width-down/200?cb=20210819121807" group-title="CHANNEL | SPORT", Polsat Sport Premium 2 HD LQ
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554979&extension=m3u8
-
 
 ============================================
 
