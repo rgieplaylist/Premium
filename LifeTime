@@ -561,60 +561,20 @@ https://canale.mizhls.ru/lb/premium586/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium450/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="psjtv.id" tvg-logo="https://iptv.urfan.web.id/logo/psjtv.png",PSJ TV
-https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sport-1-sk.png", PREMIERE 1 SLOVAKIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+===============
 
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sport-2-sk.png", PREMIERE 2 SLOVAKIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="CHANNEL | SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sport-3-sk.png", PREMIERE 3 SLOVAKIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="CHANNEL | SPORT", Sports18 1 HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
-
-
-#EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="CHANNEL | SPORT", Ten Sports HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qazsport-kz.png" group-title="CHANNEL | SPORT", QAZSPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/q-sport-arena-kz.png" group-title="CHANNEL | SPORT", Q ARENA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/qq/q-sport-league-kz.png" group-title="CHANNEL | SPORT", Q LEAGUE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
-
-
-#EXTINF:-1 tvg-id="here" tvg-logo="https://iili.io/JpwIXfe.jpghttps://iili.io/Jpw5Nt4.png" group-title="CHANNEL | SPORT" , Real Madrid TV 
+#EXTINF:-1 tvg-id="here" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/real-madrid-tv-es.png" group-title="CHANNEL | SPORT" , Real Madrid TV 
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://iili.io/JpwCQ24.png" group-title="CHANNEL | SPORT" , REDBULL TV
+#EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/red-bull-tv-de.png" group-title="CHANNEL | SPORT" , REDBULL TV
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://www.lyngsat.com/logo/radio/rr/rtl_radio_fr.png" group-title="CHANNEL | SPORT" , RTL SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
+https://tvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
 
 #EXTINF:-1 tvg-id="here" tvg-logo="https://iili.io/JpwxMp2.png" group-title="CHANNEL | SPORT" , Sevilla FC Televisión
