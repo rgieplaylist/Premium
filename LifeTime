@@ -712,10 +712,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/o
 #EXTINF: -1 tvg-name="Sports18 1 HD" tvg-logo="https://iili.io/d9iom9s.jpghttps://iili.io/d9iwMU7.png" group-title="CHANNEL | SPORT", Sports18 1 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
 
-#EXTINF: -1 tvg-name="Ten Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrtZdxIldSepPloQSmwA9YMVPCL53y-o5GA&s" group-title="CHANNEL | SPORT", 18 1HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://mhdlivetv.com/
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001
 
 #EXTINF: -1 tvg-name="Ten Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/2f380fdc4798e7a468c4564b261def19.png" group-title="CHANNEL | SPORT", Ten Sports HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
@@ -1087,7 +1083,7 @@ https://canale.mizhls.ru/lb/premium414/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium420/playlist.m3u8
 
-#EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="CHANNEL | SPORT",SS Variety 01
+#EXTINF:-1 xui-id="7660" tvg-id="" tvg-name="SuperSport: Variety 01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="CHANNEL | SPORT",SS Variety 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium416/playlist.m3u8
