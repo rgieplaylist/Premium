@@ -1173,16 +1173,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://canale.mizhls.ru/lb/premium450/playlist.m3u8
 
 
-#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="beIN Sports 1 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="CHANNEL | SPORT",beIN Sports 1 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="beIN Sports 2 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest?cb=20170228204506" group-title="CHANNEL | SPORT",beIN Sports 2 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="beIN Sports 3 MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg/revision/latest?cb=20150715190042" group-title="CHANNEL | SPORT",beIN Sports 3 MY
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-
 #EXTINF:-1 xui-id="11538" tvg-id="" tvg-name="Portugal- SPORT TV +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sporttv-mais.svg/revision/latest/scale-to-width-down/250?cb=20231020154804" group-title="CHANNEL | SPORT",Portugal- SPORT TV +
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
