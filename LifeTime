@@ -5488,22 +5488,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 ==========
 END | UFC 
 ===========
-==========
-GOLF
-===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",GOLF
-
-#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="GOLF", Sky SPORT GOLF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium461/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="GOLF",Sky Sports Golf UK
-https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="Sky Sports Golf Italy" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="GOLF ",Sky Sports Golf Italy
-https://webhdrunns.mizhls.ru/lb/premium574/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
 
 ==========
 VOLLYBALL
@@ -6922,7 +6906,7 @@ http://iptv12k.com:35461/654321/123456/3233
 http://iptv12k.com:35461/654321/123456/3232
 #EXTINF:-1 tvg-name="KR: mbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbc KR
 http://iptv12k.com:35461/654321/123456/3231
-#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: mbn KR
+#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: mbn KR
 http://iptv12k.com:35461/654321/123456/3230
 #EXTINF:-1 tvg-name="KR: jtbc KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: jtbc KR
 http://iptv12k.com:35461/654321/123456/3229
@@ -6942,7 +6926,7 @@ http://iptv12k.com:35461/654321/123456/3223
 http://iptv12k.com:35461/654321/123456/3222
 #EXTINF:-1 tvg-name="KR: 迪士尼JU KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 迪士尼JU KR
 http://iptv12k.com:35461/654321/123456/3221
-#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: MBC电视剧 KR
+#EXTINF:-1 tvg-name="KR: MBC电视剧 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC电视剧 KR
 http://iptv12k.com:35461/654321/123456/3220
 #EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MBC스포츠 KR
 http://iptv12k.com:35461/654321/123456/3219
@@ -6954,7 +6938,7 @@ http://iptv12k.com:35461/654321/123456/3217
 http://iptv12k.com:35461/654321/123456/3216
 #EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SPOTV KR
 http://iptv12k.com:35461/654321/123456/3215
-#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: KBS스포츠 KR
+#EXTINF:-1 tvg-name="KR: KBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: KBS스포츠 KR
 http://iptv12k.com:35461/654321/123456/3214
 #EXTINF:-1 tvg-name="KR: MNET KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: MNET KR
 http://iptv12k.com:35461/654321/123456/3213
@@ -6968,7 +6952,7 @@ http://iptv12k.com:35461/654321/123456/3210
 http://iptv12k.com:35461/654321/123456/3209
 #EXTINF:-1 tvg-name="KR: 내셔널지오그래 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: 내셔널지오그래 KR
 http://iptv12k.com:35461/654321/123456/3208
-#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA",KR: SBS스포츠 KR
+#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS스포츠 KR
 http://iptv12k.com:35461/654321/123456/3207
 #EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: SBS골프 KR
 http://iptv12k.com:35461/654321/123456/3206
