@@ -1021,7 +1021,7 @@ https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8|referer=https://lewblivehdp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-#EXTINF:-1 tvg-id="701" group-title="UFC" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",Unifi Sports 1 HD
+#EXTINF:-1 tvg-id="701" group-title="CHANNEL | SPORT" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",Unifi Sports 1 HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
