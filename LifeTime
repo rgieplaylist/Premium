@@ -1045,10 +1045,10 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 1 Bar DE
+#EXTINF:-1 tvg-name="DAZN 1 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Bar DE 1
 https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 2 Bar DE
+#EXTINF:-1 tvg-name="DAZN 2 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Bar DE 2
 https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="CHANNEL | DAZN SPORT",DAZN 1 DE
@@ -1063,25 +1063,25 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 1 Spain
+#EXTINF:-1 tvg-name="DAZN 1 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain 1
 https://webhdrunns.mizhls.ru/lb/premium445/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN 2 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 2 Spain
+#EXTINF:-1 tvg-name="DAZN 2 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain 2
 https://webhdrunns.mizhls.ru/lb/premium446/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN 3 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 3 Spain
+#EXTINF:-1 tvg-name="DAZN 3 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain 3
 https://webhdrunns.mizhls.ru/lb/premium447/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN 4 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN 4 Spain
+#EXTINF:-1 tvg-name="DAZN 4 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain 4
 https://webhdrunns.mizhls.ru/lb/premium448/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN F1 ES
+#EXTINF:-1 tvg-name="DAZN F1 ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain F1 ES
 https://webhdrunns.mizhls.ru/lb/premium537/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN LaLiga
+#EXTINF:-1 tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain LaLiga
 https://webhdrunns.mizhls.ru/lb/premium538/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="DAZN LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN LaLiga 2
+#EXTINF:-1 tvg-name="DAZN LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/239px-DAZN_logo.svg.png" group-title="CHANNEL | DAZN SPORT",DAZN Spain LaLiga 2
 https://webhdrunns.mizhls.ru/lb/premium43/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
