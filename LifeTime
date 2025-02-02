@@ -732,19 +732,6 @@ https://bigembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://bigembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTSports5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-5-uk.png",TNT SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bigembed.mizhls.ru/lb/eplayerdigitvbt5/playlist.m3u8
-
-
-#EXTINF:-1 group-title="CHANNEL | SPORT" tvg-id="TNTSports5.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-5-uk.png",TNT SPORTS 5 (M)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
 
 ===================================================
 
@@ -775,12 +762,14 @@ https://canale.mizhls.ru/lb/premium114/playlist.m3u8
 https://canale.mizhls.ru/lb/premium115/playlist.m3u8
 
 
+==========================================================
+
+
 #EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="CHANNEL | SPORT",TRUE PREMIER 1 
 https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="CHANNEL | SPORT",TRUE PREMIER 2
 https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="CHANNEL | SPORT",TRUE PREMIER 3
 https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
@@ -788,20 +777,10 @@ https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="CHANNEL | SPORT",TRUE PREMIER 4
 https://iptv2.wirdy.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="CHANNEL | SPORT",TRUE SPORT 2
-https://iptv2.wirdy.workes.dev/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="CHANNEL | SPORT",TRUE SPORT 3
-https://iptv2.wirdy.workes.dev/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="CHANNEL | SPORT",TRUE SPORT 4
-https://iptv2.wirdy.workes.dev/4/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="CHANNEL | SPORT",TRUE SPORT 5
-https://iptv2.wirdy.workes.dev/02_sport5_480p/chunklist.m3u8
 
 
 ===========================================
+
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="CHANNEL | SPORT",SONY SPORTS 1
