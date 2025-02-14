@@ -1,11 +1,7 @@
 #EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="Sports",Premier League TV (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6ade57e9ae9cea4b28633888a84c448:84e4765e17259dd014b51d2d166ac63e
-https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
-
-#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="Sports",Premier League TV (Vid)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6ade57e9ae9cea4b28633888a84c448:84e4765e17259dd014b51d2d166ac63e
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
@@ -16,7 +12,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395}
-#https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=6685&type=dash
 
 #EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest?cb=20200428062800" group-title="Sports",Champions TV 1 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -28,6 +24,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 #EXTINF:-1 tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV2.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="Sports",Champions TV 2 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
 https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
@@ -35,6 +33,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="Sports",Champions TV 3 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
 https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
@@ -42,6 +42,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1710399597-.png" group-title="Sports",Champions TV 5 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
@@ -49,6 +51,8 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="Sports",Champions TV 6 (Vid)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
