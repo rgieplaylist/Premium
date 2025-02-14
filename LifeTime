@@ -6454,33 +6454,33 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 
 ==================================================
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/go-3-sport-1-lt.png" group-title="OLAHRAGA LUAR", GO3 Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="Go3Sport Open" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="OLAHRAGA LUAR",Go3Sport Open
+#http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/go-3-sport-2-lt.png" group-title="OLAHRAGA LUAR", GO3 Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="Go3Sport 1" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="OLAHRAGA LUAR",Go3Sport 1
+#http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/go-3-sport-3-lt.png" group-title="OLAHRAGA LUAR", GO3 Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="Go3Sport 2" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="OLAHRAGA LUAR",Go3Sport 2
+#http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
+
+#EXTINF:-1 tvg-id="Go3Sport 3" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="OLAHRAGA LUAR",Go3Sport 3
+#http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=7jfxcz8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/go-3-sport-open-lt.png" group-title="OLAHRAGA LUAR", GO3 Sport OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
 ===============================================================
 
@@ -6676,6 +6676,18 @@ https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",ARENA SPORTS
 
 =========================
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-1-hd.png" group-title="ARENA SPORTS",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/400269009
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-2-hd.png" group-title="ARENA SPORTS",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/400269008
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/arena-premium-3-hd.png" group-title="ARENA SPORTS",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/400269007
 
 #EXTINF:-1 group-title="ARENA SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/arena-sport-1-hr.png",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
