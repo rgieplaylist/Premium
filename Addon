@@ -8,44 +8,44 @@
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/main/IndosiarHD.m3u8
-#http://xtv.ooo:8080/88654455/97543255/350972
-#https://play1nm.hnyongshun.cn/live/ballbar_16890.m3u8
-#https://play1nm.hnyongshun.cn/live/ballbar_24840.m3u8
-#https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+http://xtv.ooo:8080/88654455/97543255/350972
+https://play1nm.hnyongshun.cn/live/ballbar_16890.m3u8
+https://play1nm.hnyongshun.cn/live/ballbar_24840.m3u8
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
-#http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
-#https://play1nm.hnyongshun.cn/live/ballbar_16580.m3u8
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar2
+http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+https://play1nm.hnyongshun.cn/live/ballbar_16580.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png",Indosiar (Live Sports) 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar3
-#http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
-#http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar3
+http://15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" tvg-name="Indosiar" group-title="LIVE EVENT",Indosiar (Live Sports) 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
-#https://11.koora-live.video/hls/1/stream.m3u8
-#http://xtv.ooo:8080/live/827281020/827292929/350972.ts
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar4
+https://11.koora-live.video/hls/1/stream.m3u8
+http://xtv.ooo:8080/live/827281020/827292929/350972.ts
 
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv
-#http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
 
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="LIVE EVENT" tvg-logo="https://images.indihometv.com/logo_sctv_ver1.png", SCTV No Acak 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
-#http://iptv12k.com:35461/654321/123456/9928
-#http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
+http://iptv12k.com:35461/654321/123456/9928
+http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847b.m3u8
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 1
@@ -55,18 +55,18 @@ https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/sctv2
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856 
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
 
 
 #EXTINF:-1 tvg-id="Moji.id" group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo//moji-v2.png", MOJI No Acak 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
+https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -158,9 +158,9 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #EXTVLCOPT:http-referrer=https://sport.tipiku.my.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#https://output.unregister.xyz/euro/u17inavsaus_hd/index.m3u8
-#https://midcache2.rctiplus.id/live/futsal_afc1_720p/index.m3u8
-#https://output.unregister.xyz/euro/inavsjapan2024_hd/index.m3u8
+https://output.unregister.xyz/euro/u17inavsaus_hd/index.m3u8
+https://midcache2.rctiplus.id/live/futsal_afc1_720p/index.m3u8
+https://output.unregister.xyz/euro/inavsjapan2024_hd/index.m3u8
 
 
 
@@ -191,7 +191,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", INDOSIAR
@@ -199,7 +199,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=205&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=205&type=dash
 
 
 
@@ -208,7 +208,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=204&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=204&type=dash
 
 
 
@@ -217,7 +217,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=206&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=206&type=dash
 
 
 
