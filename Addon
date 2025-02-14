@@ -8,25 +8,13 @@ http://ate.selfip.net:8000/Felix22/vx2yzwKPvN/470231
 http://myserver.myphuket.net:25461/test2/test2/26
 #EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", True•Premiere Football 2
 http://myserver.myphuket.net:25461/test2/test2/27
-##EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", True•Premiere Football 3
+#EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", True•Premiere Football 3
 http://myserver.myphuket.net:25461/test2/test2/28
 #EXTINF: -1 tvg-id="True Sports 1" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", True•Sports 1
 http://myserver.myphuket.net:25461/test2/test2/58
 #EXTINF: -1 tvg-id="True Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", True•Sports 2
 http://myserver.myphuket.net:25461/test2/test2/59
-#EXTINF: -1 tvg-id="Bein Sports 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", BeinSports•1 (TrueVision)
-http://myserver.myphuket.net:25461/test2/test2/29
-#EXTINF: -1 tvg-id="Bein Sports 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", BeinSports•2 (TrueVision)
-http://myserver.myphuket.net:25461/test2/test2/49
-#EXTINF: -1 tvg-id="Bein Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", BeinSports•3 (TrueVision)
-http://myserver.myphuket.net:25461/test2/test2/50
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", Go3Sport Open
-http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=7jfxcz8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", Go3Sport 1
-http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=7jfxcz8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", Go3Sport 2
-http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=7jfxcz8
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", 🇲🇾 Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
