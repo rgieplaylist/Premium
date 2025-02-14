@@ -259,27 +259,27 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mp
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/581-LOGO-l.png" group-title="LIVE EVENT", MNCTV (VIP)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://perfecttv.net/Perfecttv/Perfecttv/1575
+https://perfecttv.net/Perfecttv/Perfecttv/1575
 vl
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/580-LOGO-l.png" group-title="LIVE EVENT", RCTI (VIP)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://perfecttv.net/Perfecttv/Perfecttv/1576
+https://perfecttv.net/Perfecttv/Perfecttv/1576
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/582-LOGO-l.png" group-title="LIVE EVENT", GTV (VIP)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://perfecttv.net/Perfecttv/Perfecttv/1577
+https://perfecttv.net/Perfecttv/Perfecttv/1577
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/585-LOGO-l.png" group-title="LIVE EVENT", TRANSTV (VIP)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://perfecttv.net/Perfecttv/Perfecttv/1602
+https://perfecttv.net/Perfecttv/Perfecttv/1602
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/586-LOGO-l.png" group-title="LIVE EVENT", TRANS7 (VIP)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://perfecttv.net/Perfecttv/Perfecttv/1603
+https://perfecttv.net/Perfecttv/Perfecttv/1603
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 
 
