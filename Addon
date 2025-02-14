@@ -19,61 +19,7 @@ http://myserver.myphuket.net:25461/test2/test2/59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Arena Bola 1_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/4648
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Arena Bola 1_ (backup)🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/11483
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Arena Bola 2_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/332
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ELTA Sports 2 TW_
-http://31.42.187.37:25461/watchpad13158/1234/17273
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ELTA Sports 3 TW_
-http://31.42.187.37:25461/watchpad13158/1234/4078
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",RTM Sports_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/2465
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CCTV•5
-http://31.42.187.37:25461/watchpad13158/1234/2526
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5p.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CCTV•5+
-http://31.42.187.37:25461/watchpad13158/1234/286
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Arena_ 2🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/336
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/cricket.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ASTRO CRICKET_ HD🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/328
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/nba.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NBA TV_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/2291
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/W-Sport.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",W-Sport_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/2314
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Golf_Channel.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Golf Channel HD_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/46
-#EXTINF:-1 tvg-id="194.astro" tvg-name="MY WWE NETWORK" tvg-logo="http://kingtv.dynu.com/tvlogo/WWE.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", WWE NETWORK_🇲🇾
-http://31.42.187.37:25461/watchpad13158/1234/88
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",VISION_SPORTS
-http://shareext@15.235.181.35/live.ts?channelId=132401&uid=14505&deviceMac=00:1A:79:A7:53:75&id=visionsports
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",LIVE_KABADDI
-http://shareext@15.235.181.35/live.ts?channelId=276&uid=14505&deviceMac=00:1A:79:A7:53:75&id=livekabaddi
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",18_SPORTS_KHELL
-http://shareext@15.235.181.35/live.ts?channelId=102478&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sportskhell
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",18_SPORTS_1
-http://shareext@15.235.181.35/live.ts?channelId=102479&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports1
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",18_SPORTS_2
-http://shareext@15.235.181.35/live.ts?channelId=132373&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports2
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",18_SPORTS_3
-http://shareext@15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",5_KABADDI
-http://shareext@15.235.181.35/live.ts?channelId=277&uid=14505&deviceMac=00:1A:79:A7:53:75&id=5kabaddi
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",GEO_SUPER
-http://shareext@15.235.181.35/live.ts?channelId=274&uid=14505&deviceMac=00:1A:79:A7:53:75&id=geosuper
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PTV_HIGHTLIGHT
-http://shareext@15.235.181.35/live.ts?channelId=278&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvhightlight
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PTV_SPORTS_HD
-http://shareext@15.235.181.35/live.ts?channelId=279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=ptvsportshd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",STAR_SPORTS_TAMIL
-http://shareext@15.235.181.35/live.ts?channelId=275&uid=14505&deviceMac=00:1A:79:A7:53:75&id=starsports1tamil
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",IN: MAO_TV_HD
-http://tv.cloudcdn.me:80/live.ts?channelId=292&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", SSC 1
 http://ate.selfip.net:8000/Felix22/vx2yzwKPvN/479851
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="Shareext@ World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", SSC 2
