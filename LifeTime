@@ -7054,15 +7054,35 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 ================================================
 
-#EXTINF:-1 group-title="OLAHRAGA LUAR" tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA9/original/EXTRA9.png?height=720&width=1280",Tes
+#EXTINF:-1 group-title="OLAHRAGA LUAR" tvg-id="" tvg-logo="-",Arena Premium 1
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/304092.ts
+https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5RisTER59LLqPcSpzRa1pkc/ts
+http://zkbvzkj.megahdtv.xyz:80/1103581436/4099381829/400269009
 
+#EXTINF:-1 group-title="OLAHRAGA LUAR" tvg-id="" tvg-logo="-",Arena Premium 2
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5b05BB9VoM6SXjZkLZGHwo4/ts
+http://zkbvzkj.megahdtv.xyz:80/1103581436/4099381829/400269008
 
+#EXTINF:-1 group-title="OLAHRAGA LUAR" tvg-id="" tvg-logo="-",Arena Premium 3
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5TkhclTmG9HT1I6RBLPz-aU/ts
+http://zkbvzkj.megahdtv.xyz:80/1103581436/4099381829/400451872
 
 
 =================================================================
