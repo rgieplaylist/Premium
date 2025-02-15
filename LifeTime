@@ -7172,7 +7172,7 @@ http://activefrance.net:80/UL33K17/SYC4T9D/311154
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",TRANSVISION
 =====================================================================
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/mnc-tv-id.png", MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7182,7 +7182,7 @@ http://activefrance.net:80/UL33K17/SYC4T9D/311154
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10" group-title="TRANSVISION",INDOSIAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/indosiar-id.png" group-title="TRANSVISION",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7192,7 +7192,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="TRANSVISION",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/rcti-id.png" group-title="TRANSVISION",RCTI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7202,7 +7202,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s" group-title="TRANSVISION",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/sctv-id.png" group-title="TRANSVISION",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7212,7 +7212,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e8258
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10", GTV
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/gtv-id.png", GTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7222,7 +7222,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e6475
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxMDOZQHefJe_PLlzckuPGgssSfzwwn2kdauQVKlUBqUZL0c5lfCZQIo4&s=10" group-title="TRANSVISION",Trans TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="TRANSVISION",Trans TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7232,7 +7232,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="TRANSVISION",Trans 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="TRANSVISION",Trans 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7242,7 +7242,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg" group-title="TRANSVISION",ANTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/antv-id.png" group-title="TRANSVISION",ANTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7252,7 +7252,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg" group-title="TRANSVISION",RTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/rtv-id.png" group-title="TRANSVISION",RTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7262,7 +7262,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c59
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/230/2024/11/14/New-Project-73-2968492983.jpg" group-title="TRANSVISION",NET TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/net-id.png" group-title="TRANSVISION",NET TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7282,7 +7282,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLzbyQsq1bqfjSw3bEEjyAg1oucmySHgsqQ&usqp=CAU" group-title="TRANSVISION",TVRI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/tvri-id.png" group-title="TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7292,7 +7292,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnnajfM_VCvMMnOV6U84oQ6Szhq6vQiSK8Z1eqiuLrgRS9thZkqSwgSI&s=10" group-title="TRANSVISION",Metro TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/metro-tv-id.png" group-title="TRANSVISION",Metro TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7302,7 +7302,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="TRANSVISION",TV One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/tv-one-id.png" group-title="TRANSVISION",TV One
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7312,7 +7312,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCh67zEpVMHxLj6kU6QB_JiKfvomp28jV2Q&usqp=CAU" group-title="TRANSVISION",BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/btv-id.png" group-title="TRANSVISION",BTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7322,7 +7322,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df935
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-title="TRANSVISION",Kompas TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/kompas-tv-id.png" group-title="TRANSVISION",Kompas TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7332,7 +7332,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s" group-title="TRANSVISION",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/2048px-CNN_Indonesia_logo.svg.png" group-title="TRANSVISION",CNN Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7342,7 +7342,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Q-Rua93TgwQYu3phFVSTw5MuiFtC0jGQVQ&s" group-title="TRANSVISION",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/35/CNBC_Indonesia.png/revision/latest?cb=20210810155845" group-title="TRANSVISION",CNBC Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7352,7 +7352,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EU8sQ2PqncSILCx6p6e9oxtaP_Q6wRCm6Q&usqp=CAU" group-title="TRANSVISION",The Indonesia Channel
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/issuewireassets/primg/71287/the-indonesia-channel-logo534566050.jpeg" group-title="TRANSVISION",The Indonesia Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7362,7 +7362,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4TqguMdM8LTfEwJA5gftQeyN0W_wR5pb4Q&usqp=CAU" group-title="TRANSVISION",Insert
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest?cb=20220102144300" group-title="TRANSVISION",Insert
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7372,7 +7372,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGso4UCz3qWyzfVH8lRAeMpMVjlY6V-poZ3w&usqp=CAU" group-title="TRANSVISION",JAK TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/jak-tv-id.png" group-title="TRANSVISION",JAK TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7382,7 +7382,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7kokErvRkQq1jr16zOqRKQoxVDRWa8PEGQ&usqp=CAU" group-title="TRANSVISION",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/jtv-id.png" group-title="TRANSVISION",JTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7392,7 +7392,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bc
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://c.dlnws.com/image/upload/c_limit,f_auto,q_auto,w_1800/v1503592425/Blog/HBO_2.jpg" group-title="TRANSVISION",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/hbo-br.png" group-title="TRANSVISION",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7402,7 +7402,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26b
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="TRANSVISION",HBO Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-hits-hk.png" group-title="TRANSVISION",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7412,7 +7412,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="TRANSVISION",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-family-hk.png" group-title="TRANSVISION",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7422,7 +7422,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="TRANSVISION",HBO Signature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-signature-hk.png" group-title="TRANSVISION",HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7432,7 +7432,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="TRANSVISION",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/cinemax-hk.png" group-title="TRANSVISION",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7442,7 +7442,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg" group-title="TRANSVISION",Warner TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/warner-tv-hk.png" group-title="TRANSVISION",Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7452,7 +7452,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/seru.png" group-title="TRANSVISION",Seru Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646" group-title="TRANSVISION",Seru Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7462,7 +7462,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="TRANSVISION",Dunia Lain
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Dunia_Lain_TV.svg/revision/latest?cb=20210109161817" group-title="TRANSVISION",Dunia Lain
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7472,7 +7472,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg" group-title="TRANSVISION",Nusantara
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="TRANSVISION",Nusantara
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7482,7 +7482,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkDW_-5HWTicwbZsWEcE8fNaHfwv8RHsR_w&usqp=CAU" group-title="TRANSVISION",Musik Indonesia
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png" group-title="TRANSVISION",Musik Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7492,7 +7492,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b3
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="TRANSVISION",Song TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Klik_Music_Channel.png/768px-Klik_Music_Channel.png" group-title="TRANSVISION",Song TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7502,7 +7502,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="TRANSVISION",Clubbing TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="TRANSVISION",Clubbing TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7512,7 +7512,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560ac
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%20MU.jpg" group-title="TRANSVISION",TV Mu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="TRANSVISION",TV Mu
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7522,7 +7522,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/TV%209.jpg" group-title="TRANSVISION",TV9
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest/scale-to-width-down/268?cb=20220525022727" group-title="TRANSVISION",TV9
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7532,7 +7532,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRM18i3RBTdS2HpCo5RelhsRwIu83d-ZLSw&usqp=CAU" group-title="TRANSVISION", NABAWI TV
+#EXTINF:-1 tvg-logo="https://nabawi.tv/wp-content/uploads/2021/10/cropped-logo-nabawitv.png" group-title="TRANSVISION", NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7542,7 +7542,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg" group-title="TRANSVISION",Kilat TV
+#EXTINF:-1 tvg-logo="https://matranews.id/wp-content/uploads/2022/12/logo.png" group-title="TRANSVISION",Kilat TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7572,7 +7572,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYi75sypv-mDYiAjkHRGtw6mz4fBGGiS67g&usqp=CAU" group-title="TRANSVISION",Nature Vision TV
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="TRANSVISION",Nature Vision TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7582,7 +7582,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51b
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/PIJAR%20TV.jpg" group-title="TRANSVISION",Pijar TV
+#EXTINF:-1 tvg-logo="https://pijar.tv/wp-content/uploads/2017/10/LOGO-PIJAR-TV-WARNA-e1509096043319.png" group-title="TRANSVISION",Pijar TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7602,7 +7602,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f3551
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/DAAI%20TV.jpg" group-title="TRANSVISION",DAAI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="TRANSVISION",DAAI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7622,7 +7622,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde47
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="TRANSVISION",Cartoon TV Premium
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_300.png" group-title="TRANSVISION",Cartoon TV Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7632,7 +7632,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" group-title="TRANSVISION",Cartoon TV
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_300.png" group-title="TRANSVISION",Cartoon TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7642,7 +7642,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBr5QWyKltrB3ybFc6fdSzkybIK0B9JkGdOA&usqp=CAU" group-title="TRANSVISION",Cartoon TV Classics
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png" group-title="TRANSVISION",Cartoon TV Classics
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7652,7 +7652,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f218
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="TRANSVISION",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/cartoon-network-in.png" group-title="TRANSVISION",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7662,7 +7662,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456010
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/boomerang.png" group-title="TRANSVISION",Boomerang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="TRANSVISION",Boomerang
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7672,7 +7672,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="TRANSVISION",Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="TRANSVISION",Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7682,7 +7682,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="TRANSVISION",Series Zone
+#EXTINF:-1 tvg-logo="https://mobibase.com/wp-content/themes/mobibase/assets/images/series_zone.png" group-title="TRANSVISION",Series Zone
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7692,7 +7692,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf10
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq505Bd0BH-e3Chr84A5Ecj97fI8q0WNbyFA&usqp=CAU" group-title="TRANSVISION",Movies News
+#EXTINF:-1 tvg-logo="https://mobibase.com/wp-content/themes/mobibase/assets/images/movie_news.png" group-title="TRANSVISION",Movies News
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7702,7 +7702,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
-#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://i.postimg.cc/3RFZB9NP/afn.png",AFN
+#EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",AFN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7712,7 +7712,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/DIZI%20PURPLE.jpg" group-title="TRANSVISION",Dizi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Timeless_Drama_Channel_logo.png" group-title="TRANSVISION",Dizi
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7722,7 +7722,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846169a38c3e61/1901a230a6204d44b4d51f176df0d20c.jpg" group-title="TRANSVISION",Wai Lana
+#EXTINF:-1 tvg-logo="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147878263/settings_images/amT3ajkASl6k33h6I7XN_MicrosoftTeams-image_20.png" group-title="TRANSVISION",Wai Lana
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7732,7 +7732,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d45623
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="TRANSVISION",SuperYacht TV
+#EXTINF:-1 tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/Superyacht-TV.png" group-title="TRANSVISION",SuperYacht TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7742,7 +7742,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018456047
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858119921801816b52686d5e62/fa18ac9f9a8b4e5e92d20a20ba71db39.jpg" group-title="TRANSVISION",Pretty TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/53be7f7033f0f.png" group-title="TRANSVISION",Pretty TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7752,7 +7752,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GEM%20TV.jpg" group-title="TRANSVISION",Gem TV
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_776.png" group-title="TRANSVISION",Gem TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7762,7 +7762,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="TRANSVISION",Joke TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/659c0f27cdcbe.png" group-title="TRANSVISION",Joke TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7772,7 +7772,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/ONE%20TV.jpg" group-title="TRANSVISION",One TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/548b0e5c261e3.png" group-title="TRANSVISION",One TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7782,7 +7782,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe0
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GOSSIP.png" group-title="TRANSVISION",Gossip
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/5458ad408e84e.png" group-title="TRANSVISION",Gossip
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7792,7 +7792,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff1
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="TRANSVISION",Fashion TV
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_242.png" group-title="TRANSVISION",Fashion TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7802,7 +7802,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="TRANSVISION",Travel TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/548f0b625f3ec.png" group-title="TRANSVISION",Travel TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7812,7 +7812,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="TRANSVISION",Cooking TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/5acdc448561cd.png" group-title="TRANSVISION",Cooking TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7822,7 +7822,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GAMING%20TV.png" group-title="TRANSVISION",Gaming TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/546dd01f6e14a.png" group-title="TRANSVISION",Gaming TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7832,7 +7832,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="TRANSVISION",Fitness TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/53b5322d0ac50.png" group-title="TRANSVISION",Fitness TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7842,7 +7842,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-wZnNFd0zVZ363F7dZTh3nGjQe_Khy8YUQ&usqp=CAU" group-title="TRANSVISION",Knowledge+
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/623b3a54ed504.png" group-title="TRANSVISION",Knowledge+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7852,7 +7852,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845601f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg" group-title="TRANSVISION",HowTo
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/53be7b796e4ce.png" group-title="TRANSVISION",HowTo
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7862,7 +7862,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HL7XkT5T/TV5-Monde-Info.png" group-title="TRANSVISION",TV5 Monde
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" group-title="TRANSVISION",TV5 Monde
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7872,7 +7872,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbb
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cctv4_big1.png" group-title="TRANSVISION",CCTV 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="TRANSVISION",CCTV 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7882,7 +7882,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8vPL86c/CGTN-Documentary.png" group-title="TRANSVISION",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TRANSVISION",CGTN Documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7892,7 +7892,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a4243017317e3341
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Shk5wc/abc-australia.png" group-title="TRANSVISION",ABC Australia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg" group-title="TRANSVISION",ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7902,7 +7902,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3c
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqccPVCX/cna.png" group-title="TRANSVISION",CNA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="TRANSVISION",CNA
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7912,7 +7912,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPL77hJ5/al-jazeera.png" group-title="TRANSVISION",Al Jazeera
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="TRANSVISION",Al Jazeera
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7922,7 +7922,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wVwqH4G/Euronews.png" group-title="TRANSVISION",Euro news
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="TRANSVISION",Euro news
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7932,7 +7932,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1QJF2sK/france-24.png" group-title="TRANSVISION",France 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="TRANSVISION",France 24
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7942,7 +7942,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t49ndyWC/CGTN.png" group-title="TRANSVISION",CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="TRANSVISION",CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7952,7 +7952,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6Q2Wn1jp/RT.png" group-title="TRANSVISION",Russia Today
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="TRANSVISION",Russia Today
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7962,7 +7962,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c84689
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0dD8MZ/arirang.png" group-title="TRANSVISION",Arirang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Arirang-TV-Logo.svg" group-title="TRANSVISION",Arirang
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7972,7 +7972,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/wiontv.png" group-title="TRANSVISION",Wion TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="TRANSVISION",Wion TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7982,7 +7982,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq-au4whdudWi4PK-_wP-4UXTvX2x4D4H5g&usqp=CAU" group-title="TRANSVISION",Golf+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="TRANSVISION",Golf+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7992,7 +7992,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e3
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbVQRXaV4mmzu6JElzDRkc10pu1d0kxQWVVg&usqp=CAU" group-title="TRANSVISION",Football TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/5ac4a7c363c99.png" group-title="TRANSVISION",Football TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8012,7 +8012,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png" group-title="TRANSVISION",Historical Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/eb/Historical_Sports_Logo.png" group-title="TRANSVISION",Historical Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8022,7 +8022,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/MOTOR%20RACING.jpg" group-title="TRANSVISION",Motor Racing
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Motor_Racing_Network_logo.svg/2560px-Motor_Racing_Network_logo.svg.png" group-title="TRANSVISION",Motor Racing
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8032,7 +8032,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png" group-title="TRANSVISION",Horizon Sports
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="TRANSVISION",Horizon Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8042,7 +8042,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaUQvwqEdRoGLc6sIDOfBPd48N7PTb-g4ANg&usqp=CAU" group-title="TRANSVISION",Fight TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/53b69e63591ca.png" group-title="TRANSVISION",Fight TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8052,7 +8052,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f4
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwC0IVntvUjuTWG5zm3EUuIRzgYmuY92v_6Q&usqp=CAU" group-title="TRANSVISION",IDCyclist
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IDTV.svg/1200px-IDTV.svg.png" group-title="TRANSVISION",IDCyclist
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8062,7 +8062,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4LZwmwUHgXivUCnufIZ6xjD4ZV35YFKXUw&usqp=CAU" group-title="TRANSVISION",Xtrem Sports
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/58135b4eb8c3a.png" group-title="TRANSVISION",Xtrem Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8072,7 +8072,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/SPORTS%20TV.jpg" group-title="TRANSVISION",Sports TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/5ac4a7a7bd377.png" group-title="TRANSVISION",Sports TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8082,7 +8082,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Speed%20TV.jpg" group-title="TRANSVISION",Speed TV
+#EXTINF:-1 tvg-logo="http://catalog.mobibase.com/tv/uploads/logos/5347e523cf31c.png" group-title="TRANSVISION",Speed TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8092,7 +8092,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6857fe540a1018060afdef
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
-#EXTINF:-1 tvg-logo="_____" group-title="TRANSVISION", DISCOVERY SCI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="TRANSVISION", DISCOVERY SCI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8112,7 +8112,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCYx67ZQ3mcE0FVmb1HJjlSAMIqX15_Nhlg&s" group-title="TRANSVISION", GEM TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="TRANSVISION", GEM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8122,7 +8122,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33swb7abmMoHOyTrZZOYNRBr1VqHUqPrsmQ&s" group-title="TRANSVISION", CINEMA WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/2560px-Cineworld.svg.png" group-title="TRANSVISION", CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8132,7 +8132,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="TRANSVISION", AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="TRANSVISION", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8142,7 +8142,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2022/01/tvn.jpg" group-title="TRANSVISION", tvN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TRANSVISION", tvN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8152,7 +8152,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="TRANSVISION", ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="TRANSVISION", ZEE BIOSKOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8162,7 +8162,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjD5Zz7f8Hb4ap9aDWnuZwrreCjgQhgpdeg&s" group-title="TRANSVISION", WARNER TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/warner-tv-hk.png" group-title="TRANSVISION", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8172,7 +8172,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPQ_RJkJta2c4h38-UFBDG1gT1CtqBJY2JQ&s" group-title="TRANSVISION", TECHSTROM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/TS-Logo.png" group-title="TRANSVISION", TECHSTROM
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8182,7 +8182,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2EuPsdSh9zFZe3zwd7hP_CEEf9UdkI9B5EA&s" group-title="TRANSVISION", SUPERYATCH TV
+#EXTINF:-1 tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/Superyacht-TV.png" group-title="TRANSVISION", SUPERYATCH TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8191,6 +8191,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
+
+
 
 
 ====================================================================================================
