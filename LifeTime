@@ -6692,50 +6692,59 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 
 =================================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-football-za.png" group-title="OLAHRAGA LUAR",SS Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium56/mono.m3u8
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="ACTION " tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS ACTION 
+http://activefrance.net:80/UL33K17/SYC4T9D/252112
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-premier-league-za.png" group-title="OLAHRAGA LUAR",SS Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="FOOTBALL PLUS HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS FOOTBALL PLUS HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252100
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-tennis-za.png" group-title="OLAHRAGA LUAR",SS Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium416/mono.m3u8
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS PREMIER LEAGUE HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252098
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-variety2-za.png" group-title="OLAHRAGA LUAR",SS Variety 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium417/mono.m3u8
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="LA LIGA HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS LA LIGA HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252099
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-variety3-za.png" group-title="OLAHRAGA LUAR",SS Variety 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="FOOTBALL HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS FOOTBALL HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252097
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-variety4-za.png" group-title="OLAHRAGA LUAR",SS Variety 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium419/mono.m3u8
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="GRANDSTAND" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS GRANDSTAND
+http://activefrance.net:80/UL33K17/SYC4T9D/252110
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-laliga-za.png" group-title="OLAHRAGA LUAR",SS Laliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium415/mono.m3u8
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="MAXIMO 1" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS MAXIMO 1
+http://activefrance.net:80/UL33K17/SYC4T9D/252108
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-maximo1-za.png" group-title="OLAHRAGA LUAR",SS Maximo 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium572/mono.m3u8
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="TENNIS HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS TENNIS HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252101
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-psl-za.png" group-title="OLAHRAGA LUAR",SS PSL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium413/mono.m3u8
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="RUGBY HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS RUGBY HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252102
+
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRICKET HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS CRICKET HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252103
+
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="GOLF HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS GOLF HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252104
+
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="MOTOSPORT HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS MOTOSPORT HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252105
+
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="BLITZ HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS BLITZ HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252107
+
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="PSL" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS PSL
+http://activefrance.net:80/UL33K17/SYC4T9D/252111
+
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="VARIETY 1 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS VARIETY 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252093
+
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="VARIETY 2 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS VARIETY 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252094
+
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="VARIETY 3 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS VARIETY 3 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252095
+
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="VARIETY 4 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS VARIETY 4 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252096
 
 
 ===========================================================================
