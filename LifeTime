@@ -4024,16 +4024,6 @@ PENGETAHUAN
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="PENGETAHUAN",GLOBAL TREKKER
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089127
 
-#EXTINF:-1 tvg-name="National Geographic (NGC)" tvg-logo="https://www.dropbox.com/scl/fi/53zk8ghg9huhfodugwj5a/daddy-200.png?rlkey=sc6m09sro9gar145n44zsq2gg&dl=1" group-title="PENGETAHUAN",National Geographic (NGC)
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://zekonew.iosplayer.ru/zeko/premium328/mono.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo Wild USA" tvg-logo="https://www.dropbox.com/scl/fi/53zk8ghg9huhfodugwj5a/daddy-200.png?rlkey=sc6m09sro9gar145n44zsq2gg&dl=1" group-title="PENGETAHUAN",Nat Geo Wild USA
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://zekonew.iosplayer.ru/zeko/premium745/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="PENGETAHUAN",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4094,7 +4084,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTVLCOPT:http-referrer=http://cubmu.com
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="PENGETAHUAN",Love Nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/love-nature-es.png" group-title="PENGETAHUAN",Love Nature
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
