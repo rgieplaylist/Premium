@@ -4778,6 +4778,8 @@ END | PENGETAHUAN  |WORTH 100%
 ==========
 START | BRI LIGA 1
 ===========
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",BRI LIGA 1
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="BRI LIGA 1" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
