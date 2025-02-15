@@ -6197,37 +6197,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",OLAHRAGA LUAR
 
 ===========================
-#EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="OLAHRAGA LUAR",Astro Arena 1
-http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/29658
 
-#EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="OLAHRAGA LUAR",Astro Arena 2
-http://zkbvzkj.megahdtv.xyz:900/1103581436/4099381829/13111
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="OLAHRAGA LUAR",ASTRO ARENA BOLA 1
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131941
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="OLAHRAGA LUAR",ASTRO ARENA BOLA 2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131942
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="OLAHRAGA LUAR",Astro PL 1
-http://iptv12k.com:35461/654321/123456/7990
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="OLAHRAGA LUAR",Astro PL 2
-http://iptv12k.com:35461/654321/123456/7988
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="OLAHRAGA LUAR",Astro Grandstand
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="OLAHRAGA LUAR",Astro Football
-http://iptv12k.com:35461/654321/123456/969
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="OLAHRAGA LUAR",Astro Sport Plus
-https://livetvbox.live:443/live/Winston123/Winston123/5483.ts
-
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="OLAHRAGA LUAR",Astro Badminton
-https://livetvbox.live:443/live/Winston123/Winston123/5482.ts
-
-=======================================
 
 #EXTINF:-1 group-title="OLAHRAGA LUAR" tvg-id="ssc1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC2/original/SSC2.png?height=720&width=1280",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -6384,43 +6354,6 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 #https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=18190
 
-==================================================
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT PREMIUM 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT PREMIUM 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="OLAHRAGA LUAR", ARENA SPORT PREMIUM 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium139/mono.m3u8
-
 ====================================================
 
 #EXTINF:-1 xui-id="7942" tvg-id="" tvg-name="COSMOTE 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="OLAHRAGA LUAR",COSMOTE 2
@@ -6523,25 +6456,18 @@ https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
 
 =================================================
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="OLAHRAGA LUAR" , DIGI SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/premium400/mono.m3u8
-
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="OLAHRAGA LUAR" , DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/premium401/mono.m3u8
-
-#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="OLAHRAGA LUAR" , DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/premium402/mono.m3u8
-
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="OLAHRAGA LUAR" , DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://top2new.iosplayer.ru/top2/premium404/mono.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 1.png" group-title="OLAHRAGA LUAR",DIGI SPORT 1 
+http://activefrance.net:80/UL33K17/SYC4T9D/68897
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 1.png" group-title="OLAHRAGA LUAR",DIGI SPORT 1 
+http://activefrance.net:80/UL33K17/SYC4T9D/68898
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 2.png" group-title="OLAHRAGA LUAR",DIGI SPORT 2 
+http://activefrance.net:80/UL33K17/SYC4T9D/68899
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 2.png" group-title="OLAHRAGA LUAR",DIGI SPORT 2
+http://activefrance.net:80/UL33K17/SYC4T9D/68900
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 3.png" group-title="OLAHRAGA LUAR",DIGI SPORT 3
+http://activefrance.net:80/UL33K17/SYC4T9D/68901
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 4.png" group-title="OLAHRAGA LUAR",DIGI SPORT 4
+http://activefrance.net:80/UL33K17/SYC4T9D/68902
 
 ===============================================
 
@@ -6779,8 +6705,204 @@ http://activefrance.net:80/UL33K17/SYC4T9D/252095
 #EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="VARIETY 4 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="OLAHRAGA LUAR",SS VARIETY 4 HD
 http://activefrance.net:80/UL33K17/SYC4T9D/252096
 
+===========================================================================
+
+#EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="HUB PREMIER 01  " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 01  
+http://activefrance.net:80/UL33K17/SYC4T9D/324806
+#EXTINF:-1 tvg-id="Hub.Premier.2" tvg-name="HUB PREMIER 02 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 02 
+http://activefrance.net:80/UL33K17/SYC4T9D/324807
+#EXTINF:-1 tvg-id="Hub.Premier.3" tvg-name="HUB PREMIER 03 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 03 
+http://activefrance.net:80/UL33K17/SYC4T9D/324808
+#EXTINF:-1 tvg-id="Hub.Premier.4" tvg-name="HUB PREMIER 04 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 04 
+http://activefrance.net:80/UL33K17/SYC4T9D/324809
+#EXTINF:-1 tvg-id="Hub.Premier.5" tvg-name="HUB PREMIER 05 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 05 
+http://activefrance.net:80/UL33K17/SYC4T9D/324810
+#EXTINF:-1 tvg-id="Hub.Premier.6" tvg-name="HUB PREMIER 06 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 06 
+http://activefrance.net:80/UL33K17/SYC4T9D/324811
+#EXTINF:-1 tvg-id="Hub.Premier.7" tvg-name="HUB PREMIER 07 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 07 
+http://activefrance.net:80/UL33K17/SYC4T9D/324812
+#EXTINF:-1 tvg-id="Hub.Premier.8" tvg-name="HUB PREMIER 08 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 08 
+http://activefrance.net:80/UL33K17/SYC4T9D/324813
+#EXTINF:-1 tvg-id="Hub.Premier.9" tvg-name="HUB PREMIER 09 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 09 
+http://activefrance.net:80/UL33K17/SYC4T9D/324814
+#EXTINF:-1 tvg-id="Hub.Premier.10" tvg-name="HUB PREMIER 10 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/324815
+#EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="HUB PREMIER 11 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="OLAHRAGA LUAR",HUB PREMIER 11 
+http://activefrance.net:80/UL33K17/SYC4T9D/324816
+
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA LUAR",HUB SPORTS 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1090647
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA LUAR",HUB SPORTS 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1090648
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA LUAR",HUB SPORTS 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1090649
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA LUAR",HUB SPORTS 4
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1090650
+#EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA LUAR",HUB SPORTS 5
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1090651
 
 ===========================================================================
+
+#EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png"  group-title="OLAHRAGA LUAR",True Premiere Football 1
+http://myserver.myphuket.net:25461/test2/test2/26
+#EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png"  group-title="OLAHRAGA LUAR",True Premiere Football 2
+http://myserver.myphuket.net:25461/test2/test2/27
+#EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png"  group-title="OLAHRAGA LUAR",True Premiere Football 3
+http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF: -1 tvg-id="True Sports 1" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png"  group-title="OLAHRAGA LUAR",True Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
+#EXTINF: -1 tvg-id="True Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png"  group-title="OLAHRAGA LUAR",True Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
+
+===========================================================================
+
+#EXTINF:-1 tvg-id="supersport1.al" tvg-name="SUPER SPORT 1 FHD" tvg-logo="http://go4.pw/ALBANIA/S1.png" group-title="OLAHRAGA LUAR",SUPER SPORT 1 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/491819
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2 FHD" tvg-logo="http://go4.pw/ALBANIA/S2.png" group-title="OLAHRAGA LUAR",SUPER SPORT 2 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/762534
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3 FHD" tvg-logo="http://go4.pw/ALBANIA/S3.png" group-title="OLAHRAGA LUAR",SUPER SPORT 3 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1112121
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4 FHD" tvg-logo="http://go4.pw/ALBANIA/S4.png" group-title="OLAHRAGA LUAR",SUPER SPORT 4 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/491810
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5 HD" tvg-logo="http://go4.pw/ALBANIA/S5.png" group-title="OLAHRAGA LUAR",SUPER SPORT 5 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53763
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6 FHD" tvg-logo="http://go4.pw/ALBANIA/S6.png" group-title="OLAHRAGA LUAR",SUPER SPORT 6 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/53762
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="SUPER SPORT 7 HD" tvg-logo="http://go4.pw/ALBANIA/S7.png" group-title="OLAHRAGA LUAR",SUPER SPORT 7 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53761
+
+===========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport1.png" group-title="OLAHRAGA LUAR",CANAL+ SPORT 1
+http://activefrance.net:80/UL33K17/SYC4T9D/194767
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="http://go4.pw/AFRICA/CANAL+/Canal+Sport2.png" group-title="OLAHRAGA LUAR",CANAL+ SPORT 2
+http://activefrance.net:80/UL33K17/SYC4T9D/194766
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport3.png" group-title="OLAHRAGA LUAR",CANAL+ SPORT 3
+http://activefrance.net:80/UL33K17/SYC4T9D/194765
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport4.png" group-title="OLAHRAGA LUAR",CANAL+ SPORT 4
+http://activefrance.net:80/UL33K17/SYC4T9D/194764
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport5.png" group-title="OLAHRAGA LUAR",CANAL+ SPORT 5
+http://activefrance.net:80/UL33K17/SYC4T9D/194763
+
+==========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1 FHD" tvg-logo="http://go4.pw/germany/bluesport.png" group-title="OLAHRAGA LUAR",BLUE SPORT 1 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/498726
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2 FHD " tvg-logo="http://go4.pw/germany/bluesport.png" group-title="OLAHRAGA LUAR",BLUE SPORT 2 FHD 
+http://activefrance.net:80/UL33K17/SYC4T9D/498725
+
+===========================================================================
+
+
+============================================================================================================================================================
+//Astro Go
+============================================================================================================================================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",ASTRO GO
+============================================================================================================================================================
+
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-id="boohd.my" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png",Boo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Boo.m3u8
+
+#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="" tvg-logo="https://iili.io/H88dhB4.png" group-title="ASTRO GO",Dunia Sinema
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1, group-title="ASTRO GO" tvg-id="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaHebat.png",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1, group-title="ASTRO GO" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27 
+
+#EXTINF:-1, group-title="ASTRO GO" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b 
+
+#EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaSangat.png" group-title="ASTRO GO",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-id="Astro Warna" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="ASTRO GO",Astro Warna
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+http://perfecttv.net:8080/Perfecttv/Perfecttv/2
+
+#EXTINF:-1 tvg-id="Astro Citra" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="ASTRO GO",Astro Citra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
+
+#EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="ASTRO GO",Astro Ria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
+
+#EXTINF:-1 tvg-id="Astro Prima" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="ASTRO GO",Astro Prima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroPrima.m3u8
+
+#EXTINF:-1 tvg-id="Astro Aura" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="ASTRO GO",Astro Aura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroAura.m3u8
+
+#EXTINF:-1 tvg-id="Astro Rania" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="ASTRO GO",Astro Rania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
+
+#EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="ASTRO GO",Astro Sensasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="ASTRO GO",ASTRO CERIA FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052389
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="ASTRO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="ASTRO GO",PREMIER LEAGUE 1
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34535
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="ASTRO GO",PREMIER LEAGUE 2
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34534
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="ASTRO GO",GRANDSTAND
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34533
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="ASTRO GO",FOOTBALL
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34531
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="ASTRO GO",W-SPORT
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34532
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="ASTRO GO",BEIN SPORTS 1 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052431
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="ASTRO GO",BEIN SPORTS 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052425
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="ASTRO GO",BEIN SPORTS 3 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052429
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="ASTRO GO",SPOTV 1 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052591
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="ASTRO GO",SPOTV 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052590
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="ASTRO GO",ASTRO ARENA 1 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052375
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="ASTRO GO",ASTRO ARENA 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052373
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="ASTRO GO",ASTRO ARENA BOLA 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131941
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="ASTRO GO",ASTRO ARENA BOLA 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131942
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET FHD" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="ASTRO GO",ASTRO CRICKET FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052393
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER FHD" tvg-logo="http://go4.pw/ASIA/PREMIER.png" group-title="ASTRO GO",ASTRO PREMIER FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052402
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://go4.pw/ASIA/TEN.png" group-title="ASTRO GO",SONY TEN 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052689
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://go4.pw/ASIA/TEN2.png" group-title="ASTRO GO",SONY TEN 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052690
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://go4.pw/ASIA/TEN3.png" group-title="ASTRO GO",SONY TEN 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
+
+
+==========================================================================
+
+
+
+
 
 
 <==========Arena==========>
@@ -6985,6 +7107,64 @@ https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8
 https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 
 =================================================================
+
+
+
+==========================================LIVE EVENT======================================================
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",LIVE EVENT
+==========================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 01 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT", OPTUS 01 
+http://activefrance.net:80/UL33K17/SYC4T9D/450713
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 02 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT", OPTUS 02 
+http://activefrance.net:80/UL33K17/SYC4T9D/450714
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 03 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT", OPTUS 03 
+http://activefrance.net:80/UL33K17/SYC4T9D/450715
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 04 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 04 
+http://activefrance.net:80/UL33K17/SYC4T9D/450716
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 05" tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT", OPTUS 05
+http://activefrance.net:80/UL33K17/SYC4T9D/450717
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 06 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 06 
+http://activefrance.net:80/UL33K17/SYC4T9D/450718
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 07 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 07 
+http://activefrance.net:80/UL33K17/SYC4T9D/450719
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 08 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 08 
+http://activefrance.net:80/UL33K17/SYC4T9D/450720
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 09 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 09 
+http://activefrance.net:80/UL33K17/SYC4T9D/450721
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 10 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/450722
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 11 " tvg-logo="http://go4.pw/UK/optus.png" group-title="LIVE EVENT",  OPTUS 11 
+http://activefrance.net:80/UL33K17/SYC4T9D/450723
+
+#EXTINF:-1 tvg-id="1.peac" tvg-name="PEACOCK EVENT 01  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 01  
+http://activefrance.net:80/UL33K17/SYC4T9D/311142
+#EXTINF:-1 tvg-id="2.peac" tvg-name="PEACOCK EVENT 02  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 02  
+http://activefrance.net:80/UL33K17/SYC4T9D/311143
+#EXTINF:-1 tvg-id="3.peac" tvg-name="PEACOCK EVENT 03   " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 03   
+http://activefrance.net:80/UL33K17/SYC4T9D/311144
+#EXTINF:-1 tvg-id="4.peac" tvg-name="PEACOCK EVENT 04  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 04  
+http://activefrance.net:80/UL33K17/SYC4T9D/311145
+#EXTINF:-1 tvg-id="5.peac" tvg-name="PEACOCK EVENT 05 HD  : " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 05 HD  : 
+http://activefrance.net:80/UL33K17/SYC4T9D/311146
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 06   " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 06   
+http://activefrance.net:80/UL33K17/SYC4T9D/311147
+#EXTINF:-1 tvg-id="7.peac" tvg-name="PEACOCK EVENT 07  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 07  
+http://activefrance.net:80/UL33K17/SYC4T9D/311148
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 08  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 08  
+http://activefrance.net:80/UL33K17/SYC4T9D/311149
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 09  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 09  
+http://activefrance.net:80/UL33K17/SYC4T9D/311150
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 10 " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/311151
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 11  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 11  
+http://activefrance.net:80/UL33K17/SYC4T9D/311152
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 12 " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 12 
+http://activefrance.net:80/UL33K17/SYC4T9D/311153
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 13  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="LIVE EVENT",PEACOCK EVENT 13  
+http://activefrance.net:80/UL33K17/SYC4T9D/311154
+
+=====================================================================
 
 
 
