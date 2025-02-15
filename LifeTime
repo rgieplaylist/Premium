@@ -6992,6 +6992,7 @@ https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",TRANSVISION
 =====================================================================
 
+
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5-zyiSryAxlOHZquofYKT50h_qvWkuIgfQ&usqp=CAU" group-title="TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
