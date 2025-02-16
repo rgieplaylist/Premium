@@ -4104,12 +4104,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064637
 START | BRI LIGA 1
 ================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",BRI LIGA 1
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="BRI LIGA 1",INDOSIAR LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205
+==================================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="BRI LIGA 1" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
@@ -4125,11 +4120,6 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="BRI LIGA 1",Indosiar (Live Sports) 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="BRI LIGA 1",Indosiar (Live Sports) 4
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://wowowoiy.com/live/v1/fkULGkPguZTXaLOGbVKdbr8guxlTBlLJXFjyHPljysiuOl94xm2Z25HVyIapPkVf/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png" group-title="BRI LIGA 1",LIVE 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com
@@ -4148,6 +4138,15 @@ https://gasruktv.my.id/asx/live.mpd?id=17623
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://gasruktv.my.id/asx/live.mpd?id=205
 #https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739575819~acl=%2f*~id=140191317~data=hdntl~hmac=64a9eb1942868acef0c7ed777e438d35106a25e6f3e909a960a4c8f8e7a6a5c5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live2.m3u8
+
 
 
 ===========================================================
