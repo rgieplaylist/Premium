@@ -4126,6 +4126,11 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="BRI LIGA 1",Indosiar (Live Sports) 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://wowowoiy.com/live/v1/fkULGkPguZTXaLOGbVKdbr8guxlTBlLJXFjyHPljysiuOl94xm2Z25HVyIapPkVf/master.m3u8
+
 ===========================================================
 
 
