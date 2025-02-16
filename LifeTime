@@ -4139,13 +4139,6 @@ https://gasruktv.my.id/asx/live.mpd?id=17623
 https://gasruktv.my.id/asx/live.mpd?id=205
 #https://experiment-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/205_stream.mpd?hdntl=exp=1739575819~acl=%2f*~id=140191317~data=hdntl~hmac=64a9eb1942868acef0c7ed777e438d35106a25e6f3e909a960a4c8f8e7a6a5c5
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="BRI LIGA 1",LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="BRI LIGA 1",LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live2.m3u8
 
 ===========================================================
 
