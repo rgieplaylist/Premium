@@ -5977,74 +5977,80 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 
 ==============================================
 
-#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="SKY SPORTS",Sky Sports +
-https://ie.sonyrepairs.com/sksparena/index.m3u8
-#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-hz-uk.png" group-title="SKY SPORTS",Sky Sports Action
-https://ie.sonyrepairs.com/skspnfl/index.m3u8
-#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="SKY SPORTS",Sky Sports Cricket
-https://ie.sonyrepairs.com/skspcricket/index.m3u8
-#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="SKY SPORTS",Sky Sports F1
-https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="SKY SPORTS",Sky Sports Football
-https://ie.sonyrepairs.com/skspfootball/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-hz-uk.png" group-title="SKY SPORTS",Sky Sports Golf
-https://ie.sonyrepairs.com/skspgolf/index.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="SKY SPORTS",Sky Sports Main Event
-https://ie.sonyrepairs.com/skspmainevent/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="SKY SPORTS",Sky Sports Mix
-https://ie.sonyrepairs.com/spspmix/index.m3u8
-#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="SKY SPORTS",Sky Sports News
-https://ie.sonyrepairs.com/skspnews/index.m3u8
-#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="SKY SPORTS",Sky Sports Premier League
-https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="SKY SPORTS",Sky Sports Tennis
-https://ie.sonyrepairs.com/sktennis/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-hz-uk.png" group-title="SKY SPORTS", Sky Sports Arena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium462/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="SKY SPORTS", Sky Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium871/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="SKY SPORTS", Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-hz-uk.png" group-title="SKY SPORTS", Sky Sports Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium574/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="SKY SPORTS", Sky Sports MotoGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddh2new.iosplayer.ru/ddh2/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-max-it.png" group-title="SKY SPORTS", Sky Sports Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium460/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="SKY SPORTS", Sky Sports Main Event 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="SKY SPORTS", Sky Sports Mix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://ddy6new.iosplayer.ru/ddy6/premium449/mono.m3u8
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="SKY SPORTS", Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.iosplayer.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SKY SPORTS",UK-Sky Sports Main Event FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SKY SPORTS",UK-Sky Sports Main Event FHD
+http://b1g.ooo:80/96114/96114green/20172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SKY SPORTS",UK-Sky Sports Main Event HD
+http://b1g.ooo:80/96114/96114green/164493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SKY SPORTS",UK-Sky Sports News FHD
+http://b1g.ooo:80/96114/96114green/15269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SKY SPORTS",UK-Sky Sports News HD
+http://b1g.ooo:80/96114/96114green/814688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SKY SPORTS",UK-Sky Sports News SD
+http://b1g.ooo:80/96114/96114green/164506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket  FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SKY SPORTS",UK-Sky Sports Cricket  FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SKY SPORTS",UK-Sky Sports Cricket FHD
+http://b1g.ooo:80/96114/96114green/20169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SKY SPORTS",UK-Sky Sports Cricket HD*
+http://b1g.ooo:80/96114/96114green/164497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SKY SPORTS",UK-Sky Sports Football FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SKY SPORTS",UK-Sky Sports Football FHD HEVC
+http://b1g.ooo:80/96114/96114green/20170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SKY SPORTS",UK-Sky Sports Football HD*
+http://b1g.ooo:80/96114/96114green/164495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SKY SPORTS",UK-Sky Sports Premier League FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SKY SPORTS",UK-Sky Sports Premier League FHD
+http://b1g.ooo:80/96114/96114green/20171
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SKY SPORTS",UK-Sky Sports Premier League HD
+http://b1g.ooo:80/96114/96114green/814690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League SD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SKY SPORTS",UK-Sky Sports Premier League SD*
+http://b1g.ooo:80/96114/96114green/164499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SKY SPORTS",UK-Sky Sports Golf FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SKY SPORTS",UK-Sky Sports Golf FHD HEVC
+http://b1g.ooo:80/96114/96114green/20168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SKY SPORTS",UK-Sky Sports Golf HD*
+http://b1g.ooo:80/96114/96114green/164498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports F1 FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SKY SPORTS",UK-Sky Sports F1 FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports F1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SKY SPORTS",UK-Sky Sports F1 FHD
+http://b1g.ooo:80/96114/96114green/20167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports F1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SKY SPORTS",UK-Sky Sports F1 HD
+http://b1g.ooo:80/96114/96114green/164500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SKY SPORTS",UK-Sky Sports Tennis FHD
+http://b1g.ooo:80/96114/96114green/744772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SKY SPORTS",UK-Sky Sports Tennis HD
+http://b1g.ooo:80/96114/96114green/744771
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SKY SPORTS",UK-Sky Sports Tennis SD
+http://b1g.ooo:80/96114/96114green/744770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SKY SPORTS",UK-Sky Sports NFL FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SKY SPORTS",UK-Sky Sports NFL FHD HEVC
+http://b1g.ooo:80/96114/96114green/20166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SKY SPORTS",UK-Sky Sports NFL HD*
+http://b1g.ooo:80/96114/96114green/164496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SKY SPORTS",UK-Sky Sports+ FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SKY SPORTS",UK-Sky Sports+ FHD HEVC
+http://b1g.ooo:80/96114/96114green/20165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SKY SPORTS",UK-Sky Sports+ HD*
+http://b1g.ooo:80/96114/96114green/164494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SKY SPORTS",UK-Sky Sports Mix FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SKY SPORTS",UK-Sky Sports Mix FHD HEVC
+http://b1g.ooo:80/96114/96114green/20164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SKY SPORTS",UK-Sky Sports Mix HD*
+http://b1g.ooo:80/96114/96114green/164507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SKY SPORTS",UK-Sky Sports Racing FHD 50FPS
+http://b1g.ooo:80/96114/96114green/35805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SKY SPORTS",UK-Sky Sports Racing FHD
+http://b1g.ooo:80/96114/96114green/94057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SKY SPORTS",UK-Sky Sports Racing HD
+http://b1g.ooo:80/96114/96114green/814689
 
 #EXTINF:-1 tvg-id="SkySports Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/sky-sport-select-hz-nz.png" group-title="SKY SPORTS", Sky SPORTS Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
