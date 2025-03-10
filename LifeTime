@@ -3213,7 +3213,7 @@ halaman tidak tersedia
 ########################
 
 ===============================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",NASIONAL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",NASIONAL
 ===============================================================
 
 
@@ -3393,7 +3393,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.m
 ==========
 HBO GROUP| UTAMA
 ==========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",HBO GROUP
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",HBO GROUP
 
 =========
 
@@ -3472,7 +3472,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 ########################
 
 ===========================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",ANAK
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",ANAK
 ===========================================================
 
 #EXTINF:0 tvg-id="Animax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="ANAK",Animax (V+)
@@ -3558,7 +3558,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6533&type=hls
 OLAHRAGA LOKAL
 ==========
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",OLAHRAGA LOKAL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",OLAHRAGA LOKAL
 
 #EXTINF:-1 group-title="OLAHRAGA LOKAL" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3670,7 +3670,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 ########################
 
 =======================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",FILM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",FILM
 =======================================================================
 
 #EXTINF:0 tvg-id="AXN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="FILM",AXN (V+)
@@ -3926,7 +3926,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 =================
 KOREA
 =================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",KOREA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",KOREA
 =====================================================================
 
 #EXTINF:-1 group-title="KOREA"  tvg-logo="https://i.imgur.com/vh4i0gM.jpeg",ONE [I]
@@ -4017,7 +4017,7 @@ PENGETAHUAN
 ===========
 
 ==============================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",PENGETAHUAN
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",PENGETAHUAN
 ==============================================================================
 
 
@@ -4103,7 +4103,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064637
 ================
 START | BRI LIGA 1
 ================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",BRI LIGA 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",BRI LIGA 1
 ==================================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -4133,7 +4133,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
 ######## RELIGI ########
 ########################
 ====================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",AGAMA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",AGAMA
 ====================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4185,7 +4185,7 @@ https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.
 ===========
 VOLLYBALL
 ===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",VOLLYBALL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",VOLLYBALL
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -4232,7 +4232,7 @@ http://iptv12k.com:35461/654321/123456/3219
 ==========
 MUSIC
 ===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",MUSIC
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",MUSIC
 
 ====
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -4286,7 +4286,7 @@ END | MUSIC
 
 
 =============================== INDIHOME =================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",INDIHOME
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",INDIHOME
 ==========================================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDIHOME",Indosiar
@@ -4650,7 +4650,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 /////////VISION+////////! 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",VISION+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",VISION+
 
 
 
@@ -5342,7 +5342,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 
 
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",JEPANG NON SUB
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",JEPANG NON SUB
 
 #EXTINF:-1 tvg-name="JP: 衛星劇場 JP" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="JEPANG NON SUB",JP: 衛星劇場 JP
 http://iptv12k.com:35461/654321/123456/3175
@@ -5456,7 +5456,7 @@ http://iptv12k.com:35461/654321/123456/3124
 
 
 ===========================================KOREAN NON SUB | 23/1/2025 =========================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",KOREA NON SUB
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",KOREA NON SUB
 ======================
 ======================
 #EXTINF:-1 tvg-name="KR: kbs2 KR" tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="KOREA NON SUB",KR: kbs2 KR
@@ -5546,7 +5546,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 
 
 =========================================== SPORTS PREMIUM ======================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",OLAHRAGA LUAR
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",OLAHRAGA LUAR
 
 ===========================
 
@@ -6111,7 +6111,7 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 
 
 <==========Arena==========>
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",ARENA SPORTS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",ARENA SPORTS
 
 =========================
 
@@ -6196,7 +6196,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 
 
 ==============================TRANSVISION============================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",TRANSVISION
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",TRANSVISION
 =====================================================================
 
 
@@ -6984,7 +6984,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 ##### SPORTS PREMIUM #####
 ====================================================================================================
 ==============================SPORTS PREMIUM============================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",SPORTS PREMIUM
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",SPORTS PREMIUM
 =====================================================================
 
 
@@ -7345,8 +7345,8 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb
 
 ==INFORMASI==
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",[INFORMASI BERLANGGANAN]
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png" group-title="[INFORMASI BERLANGGANAN]", HUB : 0898-606-3386
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",[INFORMASI BERLANGGANAN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png" group-title="[INFORMASI BERLANGGANAN]", HUB : 0898-606-3386
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7355,8 +7355,8 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017ifest.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png",[TOKO : https://lynk.id/r.labs.id]
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/logo.png" group-title="[TOKO : https://lynk.id/r.labs.id]", TOKO : https://lynk.id/r.labs.id
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png",[TOKO : https://lynk.id/r.labs.id]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rgieplaylist/Premium/refs/heads/main/rlabsid.png" group-title="[TOKO : https://lynk.id/r.labs.id]", TOKO : https://lynk.id/r.labs.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
