@@ -3397,35 +3397,25 @@ HBO GROUP| UTAMA
 
 =========
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="HBO GROUP",HBO (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="HBO GROUP",HBO Hits (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="HBO GROUP",HBO Family (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="HBO GROUP",HBO Signature (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cinemax-ph.png" group-title="HBO GROUP",Cinemax (CBM)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
+
+#EXTINF:-1 tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="HBO GROUP",HBO (CBM)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="HBO GROUP",HBO Hits (CBM)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="HBO GROUP",HBO Family (CBM)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="HBO GROUP",HBO Signature (CBM)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
 ==================================
 
