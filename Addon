@@ -1,14 +1,6 @@
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.1:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://203.77.246.14:8001/udp/239.1.5.2:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.3:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -16,15 +8,7 @@ http://203.77.246.14:8001/udp/239.1.5.4:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.5:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://203.77.246.14:8001/udp/239.1.5.6:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.7:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -32,15 +16,7 @@ http://203.77.246.14:8001/udp/239.1.5.8:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.9:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://203.77.246.14:8001/udp/239.1.5.10:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.11:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -48,12 +24,36 @@ http://203.77.246.14:8001/udp/239.1.5.12:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.13:5000
-
-#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://203.77.246.14:8001/udp/239.1.5.14:5000
 
 #EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://203.77.246.14:8001/udp/239.1.5.15:5000
+http://203.77.246.14:8001/udp/239.1.5.16:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.18:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.20:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.22:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.24:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.26:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.28:5000
+
+#EXTINF:-1 tvg-logo="https://amstv12.my.id/ch/ctv3.jpg" group-title="SPORTS LOKAL",CTV 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android ) ExoPlayerLib/2.15.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://203.77.246.14:8001/udp/239.1.5.30:5000
