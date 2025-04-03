@@ -5764,483 +5764,101 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhamm
 ===========================
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YU1p.png" group-title="OLAHRAGA EUROPA",DAZN 1 Bar DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8
+#EXTINF:-1 group-title="OLAHRAGA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28015.m3u8
+#EXTINF:-1 group-title="OLAHRAGA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+#EXTINF:-1 group-title="OLAHRAGA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+
+http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="OLAHRAGA EUROPA",MY| SONY TEN 1
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="OLAHRAGA EUROPA",MY| SONY TEN 2
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="OLAHRAGA EUROPA",MY| SONY TEN 3
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="OLAHRAGA EUROPA", Astro Sports Plus
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="OLAHRAGA EUROPA", Astro Badminton
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="OLAHRAGA EUROPA", SONY Ten 1 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29566.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="OLAHRAGA EUROPA", SONY Ten 2 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29565.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="OLAHRAGA EUROPA", SONY Ten 3 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="OLAHRAGA EUROPA", SONY Ten 5 HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="OLAHRAGA EUROPA", FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA EUROPA",HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA EUROPA",HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA EUROPA",HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA EUROPA",HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="OLAHRAGA EUROPA",HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="OLAHRAGA EUROPA",DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 HD RO" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="OLAHRAGA EUROPA",DIGI SPORT 2 HD RO
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u85
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="OLAHRAGA EUROPA",DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://logo.ottcst.info/DIGISPORT3.png" group-title="OLAHRAGA EUROPA",DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="OLAHRAGA EUROPA",DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="OLAHRAGA EUROPA", BEIN SPORTS 1 EN
+https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="OLAHRAGA EUROPA", BEIN SPORTS 2 EN
+https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="OLAHRAGA EUROPA", CANAL+ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="OLAHRAGA EUROPA", BEIN SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="OLAHRAGA EUROPA", BEIN SPORTS 2
+https://dl.dropboxusercontent.com/scl/fi/f9o439dl0z52ppfg5x60j/beinar2.m3u8?rlkey=r8ajkq6jfsnng5m8s9yxs8n41&st=2lr6qsa8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gpPhJSO.png" group-title="OLAHRAGA EUROPA", BEIN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/irhxu9a0mu8k12m9728ll/beinar3.m3u8?rlkey=9slhp0inx1jet4st4nkn19oq9&st=aukdgbnp
+
+#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/aust/bs1.png" group-title="OLAHRAGA EUROPA",BEIN SPORTS 1 AUS
+http://extraott.com:900/live/3162523972/3791698850/355734.m3u8
+#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/aust/bs2.png" group-title="OLAHRAGA EUROPA",BEIN SPORTS 2 AUS
+http://extraott.com:900/live/3162523972/3791698850/400200340.m3u8
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/aust/bs3.png" group-title="OLAHRAGA EUROPA",BEIN SPORTS 3 AUS
+http://extraott.com:900/live/3162523972/3791698850/355737.m3u8
+
+#EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="ZIGGO SPORT HD" tvg-logo="https://lo1.in/nl/zigsp0.png" group-title="OLAHRAGA EUROPA",ZIGGO SPORT
+http://extraott.com:900/live/3162523972/3791698850/16824.m3u8
+#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="ZIGGO SPORT DOCU HD" tvg-logo="https://lo1.in/nl/zigspdoo01.png" group-title="OLAHRAGA EUROPA",ZIGGO DOCU
+http://extraott.com:900/live/3162523972/3791698850/16823.m3u8
+#EXTINF:-1 tvg-id="ziggosporttennis.nl" tvg-name="ZIGGO SPORT TENNIS HD" tvg-logo="https://lo1.in/nl/zigospt0.png" group-title="OLAHRAGA EUROPA",ZIGGO TENNIS
+http://extraott.com:900/live/3162523972/3791698850/400220446.m3u8
+#EXTINF:-1 tvg-id="ziggosportextra1.nl" tvg-name="ZIGGO SPORT EXTRA HD" tvg-logo="https://lo1.in/nl/zigspex0.png" group-title="OLAHRAGA EUROPA",ZIGGO EXTRA
+http://extraott.com:900/live/3162523972/3791698850/16822.m3u8
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" tvg-name="ZIGGO SPORT GOLF HD" tvg-logo="https://lo1.in/nl/zigspgo0.png" group-title="OLAHRAGA EUROPA",ZIGGO GOLF
+http://extraott.com:900/live/3162523972/3791698850/16821.m3u8
+#EXTINF:-1 tvg-id="ziggosportracing.nl" tvg-name="ZIGGO SPORT RACING HD" tvg-logo="https://lo1.in/nl/zisprz0.png" group-title="OLAHRAGA EUROPA",ZIGGO RACING
+http://extraott.com:900/live/3162523972/3791698850/16820.m3u8
+#EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="ZIGGO SPORT SELECT HD" tvg-logo="https://lo1.in/nl/zigspsel0.png" group-title="OLAHRAGA EUROPA",ZIGGO SELECT
+http://extraott.com:900/live/3162523972/3791698850/16819.m3u8
+#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="ZIGGO SPORT VOETBAL HD" tvg-logo="https://lo1.in/nl/zigspvb0.png" group-title="OLAHRAGA EUROPA",ZIGGO VOETBAL
+http://extraott.com:900/live/3162523972/3791698850/16818.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YSBR.png" group-title="OLAHRAGA EUROPA",DAZN 2 Bar DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://iili.io/d06YU1p.png" group-title="OLAHRAGA EUROPA",DAZN 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://iili.io/d06YSBR.png" group-title="OLAHRAGA EUROPA",DAZN 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://iili.io/d06YvLv.png" group-title="OLAHRAGA EUROPA",DAZN 3 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://iili.io/d06YkhJ.png" group-title="OLAHRAGA EUROPA",DAZN 4 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/d06YgrN.png" group-title="OLAHRAGA EUROPA",DAZN F1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://dokko1new.koskoros.ru/dokko1/premium537/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://iili.io/d06Y42I.png" group-title="OLAHRAGA EUROPA",DAZN LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://iili.io/d06Y42I.png" group-title="OLAHRAGA EUROPA",DAZN LaLiga 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://iili.io/JhkZx6v.png" group-title="OLAHRAGA EUROPA",Eurosport 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium524/mono.m3u8
- 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://iili.io/JhkZIFR.png" group-title="OLAHRAGA EUROPA",Eurosport 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujB3fn.png" group-title="OLAHRAGA EUROPA",Eleven Sports 1 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium71/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujBSqX.png" group-title="OLAHRAGA EUROPA",Eleven Sports 2 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium72/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujBSqX.png" group-title="OLAHRAGA EUROPA",Eleven Sports 3 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium428/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YU1p.png" group-title="OLAHRAGA EUROPA",DAZN 1 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YSBR.png" group-title="OLAHRAGA EUROPA",DAZN 2 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium456/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YvLv.png" group-title="OLAHRAGA EUROPA",DAZN 3 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium457/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/d06YkhJ.png" group-title="OLAHRAGA EUROPA",DAZN 4 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium458/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujnJFn.png" group-title="OLAHRAGA EUROPA",DAZN 5 Portugal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://wikinew.koskoros.ru/wiki/eplayereleven5/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3ujjsLl.png" group-title="OLAHRAGA EUROPA",Movistar Laliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium84/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JV1byLF.png" group-title="OLAHRAGA EUROPA",TNT Sports 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JV1mJ1a.png" group-title="OLAHRAGA EUROPA",TNT Sports 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JV1mdrJ.png" group-title="OLAHRAGA EUROPA",TNT Sports 3 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/JV1m3dv.png" group-title="OLAHRAGA EUROPA",TNT Sports 4 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/doCIvVt.png" group-title="OLAHRAGA EUROPA",TNT Sports 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
-#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://iili.io/Jhkb8lf.png" group-title="OLAHRAGA EUROPA",Play Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
- 
-#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/JhkbvKG.png" group-title="OLAHRAGA EUROPA",Play Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
- 
-#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/JhkbePs.png" group-title="OLAHRAGA EUROPA",Play Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 tvg-name="ArenaSport1Serbia.rs" tvg-logo="https://iili.io/3uhOR8F.png" group-title="OLAHRAGA EUROPA",Arena Sport 1 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-name="ArenaSport1Serbia.rs" tvg-logo="https://iili.io/3uhOR8F.png" group-title="OLAHRAGA EUROPA",Arena Sport 1 Premium P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arena1premiumserbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="ArenaSport2Serbia.rs" tvg-logo="https://iili.io/3uhOSFS.png" group-title="OLAHRAGA EUROPA",Arena Sport 2 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-name="ArenaSport2Serbia.rs" tvg-logo="https://iili.io/3uhOSFS.png" group-title="OLAHRAGA EUROPA",Arena Sport 2 Premium P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arena2premiumserbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="ArenaSport3Serbia.rs" tvg-logo="https://iili.io/3uhOyHF.png" group-title="OLAHRAGA EUROPA",Arena Sport 3 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-name="ArenaSport3Serbia.rs" tvg-logo="https://iili.io/3uhOyHF.png" group-title="OLAHRAGA EUROPA",Arena Sport 3 Premium P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arena3premiumserbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhPpwB.png" group-title="OLAHRAGA EUROPA",Arena Sport 1 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhPpwB.png" group-title="OLAHRAGA EUROPA",Arena Sport 1 Serbia P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arenasport1serbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhs0eR.png" group-title="OLAHRAGA EUROPA",Arena Sport 2 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhs0eR.png" group-title="OLAHRAGA EUROPA",Arena Sport 2 Serbia P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arenasport2serbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhLRTl.png" group-title="OLAHRAGA EUROPA",Arena Sport 3 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhLRTl.png" group-title="OLAHRAGA EUROPA",Arena Sport 3 Serbia P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arenasport3serbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhL4ZN.png" group-title="OLAHRAGA EUROPA",Arena Sport 4 Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhL4ZN.png" group-title="OLAHRAGA EUROPA",Arena Sport 4 Serbia P2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://nix1-dc4new.koskoros.ru/nix1-dc4/arenasport4serbia/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhPpwB.png" group-title="OLAHRAGA EUROPA",Arena Sport 1 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhs0eR.png" group-title="OLAHRAGA EUROPA",Arena Sport 2 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhLRTl.png" group-title="OLAHRAGA EUROPA",Arena Sport 3 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uhL4ZN.png" group-title="OLAHRAGA EUROPA",Arena Sport 4 Croatia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-https://windnew.koskoros.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Premier Sports Ireland 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium771/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Premier Sports Ireland 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium799/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium41/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium42/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 1 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium57/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 2 Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium58/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 1 Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",EuroSport 2 Italy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Eurosport 1 Bulgaria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium469/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Eurosport 2 Bulgaria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium470/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Eurosport 1 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Eurosport 2 France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sport Bulgaria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium468/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sport Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium582/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 1 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium631/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 2 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium632/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 3 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium633/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 4 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium634/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 5 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium635/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports 6 Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium636/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports Premier League Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium599/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports Start Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium637/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports Prime Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium638/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Nova Sports News Greece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium639/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium622/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium623/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium624/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium625/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium626/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium627/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium629/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://iili.io/3uvd3nS.png" group-title="OLAHRAGA EUROPA",Cosmote Sport 9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium630/mono.m3u8
 
 
 
