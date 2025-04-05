@@ -3806,6 +3806,14 @@ https://sweet-night-1d1d.worst.workers.dev/?id=18189&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=18190&type=dash
 
+#EXTINF:-1 tvg-id="ChampionsTVEPL.id" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="OLAHRAGA LOKAL",Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=drm 
+https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+
+
 
 =======================================================================
 
