@@ -4592,10 +4592,9 @@ https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/rcti3.m3u8
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://d37nf5n4fr3338.cloudfront.net/index.m3u8
-https://why.biz.id/Iptv/naver.php/stream.m3u8?id=20250408021F269
-
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
