@@ -3704,7 +3704,7 @@ OLAHRAGA LOKAL
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JjzVLl9.png" group-title="OLAHRAGA LOKAL",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166686
 
 #EXTINF:-1 tvg-id="Indosiar - [Saluran 78].id" tvg-logo="https://iili.io/2h01fDJ.png" group-title="OLAHRAGA LOKAL",INDOSIAR BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
@@ -4583,13 +4583,19 @@ START | LIVE EVENT
 ==================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver1.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports) 1
+#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="LIVE EVENT" tvg-id="Indosiar.id" tvg-name="Indosiar",Indosiar (Live Sports)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-https://raw.githubusercontent.com/rgieplaylist/Live/refs/heads/main/Indosiar.m3u8
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
-https://raw.githubusercontent.com/rgieplaylist/Live/refs/heads/main/RCTI
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/rcti3.m3u8
+
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/138817-LOGO-l.png" group-title="LIVE EVENT",RCTI HD (R+)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
+https://why.biz.id/Iptv/naver.php/stream.m3u8?id=20250408021F269
+
 
 
 
